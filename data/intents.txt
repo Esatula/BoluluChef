@@ -59,7 +59,7 @@ yapılışını söyle
 karnıyarık yap
 mücver tarifi lazım
 
-[INTENT:ingredient_based]
+[INTENT:ingredient_input]
 elimde yumurta ve domates var
 domatesim var
 kıyma ve patlıcanla ne yapabilirim
