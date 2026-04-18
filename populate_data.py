@@ -1,0 +1,258 @@
+import json
+
+additional_recipes = [
+    {
+        "id": 11,
+        "name": "Lahmacun",
+        "ingredients": ["un", "kıyma", "soğan", "sarımsak", "maydanoz", "biber", "domates", "isot"],
+        "steps": ["Hamuru inceceik açın.", "İç harcı hazırlayıp üzerine yayın.", "Taş fırında veya tavada pişirin."]
+    },
+    {
+        "id": 12,
+        "name": "Kısır",
+        "ingredients": ["ince bulgur", "sıcak su", "salça", "zeytinyağı", "nar ekşisi", "taze soğan", "maydanoz"],
+        "steps": ["Bulguru sıcak suyla ıslatın.", "Kalan malzemeleri ekleyip karıştırın."]
+    },
+    {
+        "id": 13,
+        "name": "İçli Köfte",
+        "ingredients": ["bulgur", "irmik", "kıyma", "ceviz", "soğan", "baharat"],
+        "steps": ["Dış hamuru hazırlayın.", "İç harcı kavurup soğutun.", "İçini doldurup kapatın ve kızartın veya haşlayın."]
+    },
+    {
+        "id": 14,
+        "name": "Ezogelin Çorbası",
+        "ingredients": ["mercimek", "bulgur", "pirinç", "soğan", "nane", "salça"],
+        "steps": ["Bakliyatları pişirin.", "Sosunu hazırlayıp karıştırın."]
+    },
+    {
+        "id": 15,
+        "name": "Künefe",
+        "ingredients": ["kadayıf", "peynir", "tereyağı", "şerbet", "antep fıstığı"],
+        "steps": ["Kadayıfları yağlayıp tepsiye dizin.", "Araya peyniri koyun.", "Kızartıp şerbetini verin."]
+    },
+    {
+        "id": 16,
+        "name": "Pilav",
+        "ingredients": ["pirinç", "tereyağı", "şehriye", "su"],
+        "steps": ["Şehriyeleri kavurun.", "Yıkanmış pirinci ekleyip kavurun.", "Suyunu ekleyip demlenmeye bırakın."]
+    },
+    {
+        "id": 17,
+        "name": "İmam Bayıldı",
+        "ingredients": ["patlıcan", "soğan", "sarımsak", "domates", "zeytinyağı"],
+        "steps": ["Patlıcanları kızartın.", "Soğanlı harcı hazırlayıp doldurun.", "Zeytinyağı ile pişirin."]
+    },
+    {
+        "id": 18,
+        "name": "Sarma",
+        "ingredients": ["yaprak", "pirinç", "soğan", "kuş üzümü", "fıstık"],
+        "steps": ["Harcı hazırlayın.", "Yaprakları sarın.", "Kısık ateşte pişirin."]
+    },
+    {
+        "id": 19,
+        "name": "Ayran Aşı Çorbası",
+        "ingredients": ["yoğurt", "buğday", "nohut", "nane"],
+        "steps": ["Buğday ve nohudu haşlayın.", "Soğuk yoğurtla karıştırın."]
+    },
+    {
+        "id": 20,
+        "name": "Kadınbudu Köfte",
+        "ingredients": ["kıyma", "pirinç", "yumurta", "un", "soğan"],
+        "steps": ["Pirinci haşlayın.", "Kıyma ile yoğurun.", "Yumurta ve una bulayıp kızartın."]
+    },
+    {
+        "id": 21,
+        "name": "Su Böreği",
+        "ingredients": ["un", "yumurta", "peynir", "tereyağı"],
+        "steps": ["Hamurları haşlayın.", "Yağlanmış tepsiye dizin.", "Araya peynir koyup pişirin."]
+    },
+    {
+        "id": 22,
+        "name": "Piyaz",
+        "ingredients": ["fasulye", "soğan", "maydanoz", "tahin", "sirke"],
+        "steps": ["Fasulyeleri haşlayın.", "Tahinli sos hazırlayıp üzerine dökün."]
+    },
+    {
+        "id": 23,
+        "name": "Ali Nazik",
+        "ingredients": ["patlıcan", "yoğurt", "kuzu eti", "tereyağı"],
+        "steps": ["Patlıcanı közleyip yoğurtla karıştırın.", "Kavrulmuş etleri üzerine ekleyin."]
+    },
+    {
+        "id": 24,
+        "name": "Şekerpare",
+        "ingredients": ["un", "irmik", "yumurta", "şerbet"],
+        "steps": ["Hamuru şekillendirin.", "Fırınlayıp sıcakken şerbetini dökün."]
+    },
+    {
+        "id": 25,
+        "name": "Sarmaşık",
+        "ingredients": ["sarmaşık otu", "yumurta", "soğan"],
+        "steps": ["Otları kavurun.", "Üzerine yumurta kırın."]
+    },
+    {
+        "id": 26,
+        "name": "Tas Kebabı",
+        "ingredients": ["dana eti", "patates", "bezelye", "salça"],
+        "steps": ["Etleri kavurun.", "Sebzeleri ekleyip az suyla pişirin."]
+    },
+    {
+        "id": 27,
+        "name": "Kabak Tatlısı",
+        "ingredients": ["kabak", "şeker", "tahin", "ceviz"],
+        "steps": ["Kabakları şekerle pişirin.", "Tahin ve cevizle servis edin."]
+    },
+    {
+        "id": 28,
+        "name": "Etli Ekmek",
+        "ingredients": ["hamur", "kıyma", "domates", "biber"],
+        "steps": ["İnce hamur açın.", "Üzerine kıymalı harç yayın.", "Fırınlayın."]
+    },
+    {
+        "id": 29,
+        "name": "Aşure",
+        "ingredients": ["buğday", "fasulye", "nohut", "kayısı", "incir", "fındık"],
+        "steps": ["Malzemeleri haşlayıp karıştırın.", "Şekerle pişirin."]
+    },
+    {
+        "id": 30,
+        "name": "Cacık",
+        "ingredients": ["yoğurt", "salatalık", "sarımsak", "nane"],
+        "steps": ["Salatalıkları doğrayın.", "Yoğurt ve suyla karıştırın."]
+    },
+    {
+        "id": 31,
+        "name": "Menemen",
+        "ingredients": ["yumurta", "domates", "biber"],
+        "steps": ["Biberleri kavurun, domatesi ekleyin, yumurtayı kırın."]
+    },
+    {
+        "id": 32,
+        "name": "Karnıyarık",
+        "ingredients": ["patlıcan", "kıyma", "soğan"],
+        "steps": ["Patlıcanları kızartın, kıymalı harcı doldurup pişirin."]
+    },
+    {
+        "id": 33,
+        "name": "İzmir Köfte",
+        "ingredients": ["kıyma", "patates", "domates", "biber"],
+        "steps": ["Köfteleri ve patatesleri kızartıp fırınlayın."]
+    },
+    {
+        "id": 34,
+        "name": "Kadayıf",
+        "ingredients": ["kadayıf", "ceviz", "tereyağı", "şerbet"],
+        "steps": ["Kadayıfları yağlayıp cevizle fırınlayın, şerbetleyin."]
+    },
+    {
+        "id": 35,
+        "name": "Mercimek Köftesi",
+        "ingredients": ["kırmızı mercimek", "bulgur", "soğan", "salça", "maydanoz"],
+        "steps": ["Mercimeği haşlayın, bulguru ekleyin, yoğurup şekil verin."]
+    },
+    {
+        "id": 36,
+        "name": "Biber Dolması",
+        "ingredients": ["biber", "pirinç", "soğan", "kıyma", "salça"],
+        "steps": ["İç harcı hazırlayıp biberleri doldurun ve pişirin."]
+    },
+    {
+        "id": 37,
+        "name": "Tavuk Sote",
+        "ingredients": ["tavuk", "biber", "domates", "soğan"],
+        "steps": ["Tavukları ve sebzeleri soteleyerek pişirin."]
+    },
+    {
+        "id": 38,
+        "name": "Pilaki",
+        "ingredients": ["fasulye", "havuç", "patates", "soğan", "zeytinyağı"],
+        "steps": ["Fasulyeleri ve sebzeleri zeytinyağında pişirin."]
+    },
+    {
+        "id": 39,
+        "name": "Revani",
+        "ingredients": ["irmik", "yoğurt", "yumurta", "un", "şerbet"],
+        "steps": ["Keki pişirip soğuk şerbeti dökün."]
+    },
+    {
+        "id": 40,
+        "name": "Taze Fasulye",
+        "ingredients": ["taze fasulye", "domates", "soğan", "zeytinyağı"],
+        "steps": ["Fasulyeleri domates ve soğanla beraber pişirin."]
+    },
+    {
+        "id": 41,
+        "name": "Tas Kebabı",
+        "ingredients": ["dana eti", "soğan", "domates", "salça"],
+        "steps": ["Eti sebzelerle beraber ağır ateşte pişirin."]
+    },
+    {
+        "id": 42,
+        "name": "Domates Çorbası",
+        "ingredients": ["domates", "un", "tereyağı", "süt"],
+        "steps": ["Unu kavurun, domatesi ekleyip pişirin ve sütleyin."]
+    },
+    {
+        "id": 43,
+        "name": "İç Pilav",
+        "ingredients": ["pirinç", "ciğer", "kuş üzümü", "dolmalık fıstık"],
+        "steps": ["Ciğer ve fıstıkları kavurup pilavı pişirin."]
+    },
+    {
+        "id": 44,
+        "name": "Bulgur Pilavı",
+        "ingredients": ["bulgur", "domates", "soğan", "biber"],
+        "steps": ["Sebzeleri kavurup bulgurla beraber pişirin."]
+    },
+    {
+        "id": 45,
+        "name": "Kabak Kalye",
+        "ingredients": ["kabak", "soğan", "dereotu", "zeytinyağı"],
+        "steps": ["Kabakları zeytinyağında pişirip dereotuyla süsleyin."]
+    },
+    {
+        "id": 46,
+        "name": "Zeytinyağlı Enginar",
+        "ingredients": ["enginar", "bezelye", "havuç", "patates", "limon"],
+        "steps": ["Enginarları sebzeli garnitürle beraber pişirin."]
+    },
+    {
+        "id": 47,
+        "name": "Havuç Tarator",
+        "ingredients": ["havuç", "yoğurt", "sarımsak", "ceviz"],
+        "steps": ["Havuçları soteleyip sarımsaklı yoğurtla karıştırın."]
+    },
+    {
+        "id": 48,
+        "name": "Humus",
+        "ingredients": ["nohut", "tahin", "limon", "sarımsak"],
+        "steps": ["Nohudu haşlayıp diğer malzemelerle püre yapın."]
+    },
+    {
+        "id": 49,
+        "name": "Sütlü Nuriye",
+        "ingredients": ["yufka", "fındık", "süt", "şerbet"],
+        "steps": ["Yufkaları fındıkla fırınlayın, sütlü şerbet dökün."]
+    },
+    {
+        "id": 50,
+        "name": "Mücver",
+        "ingredients": ["kabak", "yumurta", "un", "dereotu"],
+        "steps": ["Kabakları rendeleyip malzemelerle kızartın."]
+    }
+]
+
+with open('data/recipes.json', 'r', encoding='utf-8') as f:
+    existing = json.load(f)
+
+# Combine and save
+all_recipes = existing + additional_recipes
+
+# Deduplicate by name just in case
+unique_recipes = {r['name']: r for r in all_recipes}.values()
+
+with open('data/recipes.json', 'w', encoding='utf-8') as f:
+    json.dump(list(unique_recipes), f, ensure_ascii=False, indent=2)
+
+print(f"Toplam {len(unique_recipes)} tarif başarıyla kaydedildi.")
