@@ -8,10 +8,10 @@ from chef_logic import BoluluSefBot
 def run_evaluation():
     # Test veri seti (Chatbot'un daha önce görmediği örnekler eklenebilir)
     test_data = [
-        ("merhaba usta", "smalltalk"),
-        ("nasılsın şefim", "smalltalk"),
-        ("sen kimsin", "smalltalk"),
-        ("günaydın", "smalltalk"),
+        ("merhaba usta", "greeting"),
+        ("nasılsın şefim", "how_are_you"),
+        ("sen kimsin", "greeting"),
+        ("günaydın", "greeting"),
         ("menemen yapılışı nedir", "recipe_request"),
         ("karnıyarık tarifi lazım", "recipe_request"),
         ("baklava nasıl pişirilir", "recipe_request"),
@@ -20,7 +20,14 @@ def run_evaluation():
         ("yumurta domates biberim var", "ingredient_based"),
         ("mercimeğim var ne yapsam", "ingredient_based"),
         ("evde un ve şeker var", "ingredient_based"),
-        ("ne pişirebilirim", "ingredient_based")
+        ("ne pişirebilirim", "ingredient_based"),
+        ("hangi çorbalar var", "category_request"),
+        ("tatlı tarifleri ver", "category_request"),
+        ("et yemeği ne önerirsin", "category_request"),
+        ("sebze yemekleri listesi", "category_request"),
+        ("baklagil tarifleri", "category_request"),
+        ("meze çeşitleri", "category_request"),
+        ("hamur işleri neler", "category_request")
     ]
     
     bot = BoluluSefBot()

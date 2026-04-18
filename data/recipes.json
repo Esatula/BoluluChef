@@ -1,6 +1,1232 @@
 [
   {
+    "name": "Enginar Dolması Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 41
+  },
+  {
+    "name": "Fırında Sebze Dizmesi Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 42
+  },
+  {
+    "name": "Şıhıl Mahşi Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 43
+  },
+  {
+    "name": "Güveçte Tavuk Sote Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 44
+  },
+  {
+    "name": "Humus Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 46
+  },
+  {
+    "name": "Tiramisu Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 47
+  },
+  {
+    "name": "Ratatouille Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 48
+  },
+  {
+    "name": "Çilek Soslu Panna Cotta Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 49
+  },
+  {
+    "name": "Falafel Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 50
+  },
+  {
+    "name": "Çikolatalı Sufle Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 51
+  },
+  {
+    "name": "Ayva Tatlısı Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 52
+  },
+  {
+    "name": "Lokma Tatlısı Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 53
+  },
+  {
+    "name": "Kazandibi Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 54
+  },
+  {
+    "name": "Şekerpare Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 55
+  },
+  {
+    "name": "Köri Soslu Tavuk Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 56
+  },
+  {
+    "name": "Tas Kebabı Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 57
+  },
+  {
+    "name": "Et Sote Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 58
+  },
+  {
+    "name": "Kuru Fasulye Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 59
+  },
+  {
+    "name": "Zeytinyağlı Yaprak Sarma Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 60
+  },
+  {
+    "name": "Tavuk Sote Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 61
+  },
+  {
+    "name": "Mantarlı Tavuk Sote Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 62
+  },
+  {
+    "name": "Arnavut Ciğeri Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 63
+  },
+  {
+    "name": "Kabak Yemeği Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 64
+  },
+  {
+    "name": "Alinazik Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 65
+  },
+  {
+    "name": "Karnabahar Kızartması Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 66
+  },
+  {
+    "name": "Adana Kebap Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 67
+  },
+  {
+    "name": "Kremalı Körili Tavuklu Makarna Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 68
+  },
+  {
+    "name": "Salçalı Makarna Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 69
+  },
+  {
+    "name": "Mantarlı Makarna Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 70
+  },
+  {
+    "name": "Mac and Cheese Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 71
+  },
+  {
+    "name": "Tereyağlı Erişte Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 72
+  },
+  {
+    "name": "Garnitürlü Makarna Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 73
+  },
+  {
+    "name": "Pesto Soslu Makarna (Linguine al Pesto a) Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 74
+  },
+  {
+    "name": "Yayla Çorbası Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 75
+  },
+  {
+    "name": "Tarhana Çorbası Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 76
+  },
+  {
+    "name": "Lokanta Usulü Mercimek Çorbası Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 77
+  },
+  {
+    "name": "Terbiyeli İşkembe Çorbası Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Turkish",
+    "id": 78
+  },
+  {
+    "id": 22,
+    "name": "Şekerpare",
+    "ingredients": [
+      "4 su bardağı un",
+      "5 tepeleme yemek kaşığı irmik",
+      "180 gram oda sıcaklığında tereyağı",
+      "2 adet yumurta (1 yumurta sarısı ayrılacak)",
+      "1 su bardağı pudra şekeri",
+      "1 paket kabartma tozu",
+      "3,5 su bardağı toz şeker",
+      "3,5 su bardağı su",
+      "2-3 damla limon suyu",
+      "1 adet yumurta sarısı"
+    ],
+    "steps": [
+      "Şekerparenin şerbeti için 3,5 su bardağı toz şeker ve 3,5 su bardağı suyu tencereye aktarın. Şeker eriyip su kaynamaya başladıktan sonra 2-3 damla limon suyu ilave edin. Şerbetiniz hazır! Ocaktan alıp soğumaya bırakın.",
+      "Şekerpare hamuru için gerekli olan un ve irmik hariç 180 gram tereyağı, 2 adet yumurta beyazı, 1 su bardağı pudra şekeri ve 1 paket kabartma tozunu bir kaba aktarın ve güzelce karıştırın.",
+      "Ardından 5 yemek kaşığı tepeleme irmiği ilave edin.",
+      "4 su bardağı unu da ekleyin.",
+      "Ele yapışmayan yumuşak bir hamur elde edin.",
+      "Hazırladığınız hamurdan ceviz büyüklüğünde parçalar koparın. Yağlanmış tepsiye oval şeklini vererek dizin.",
+      "Üzerine yumurta sarısı sürün ve bir çatal ile üzerine şekil verin.",
+      "Önceden ısıtılmış 180 derecelik fırında şekerparelerinizi 20 dakika kadar pişirin. Fansız ayar kullanın, pişme süresi fırınınızın performansına göre değişebilir bu nedenle kontrollü pişirin.",
+      "Ardından fırından şekerparelerinizi alın. Oda sıcaklığında 3-4 dakika kadar dinlendirin. Soğuk şerbeti, sıcak şekerparelerin üzerine azar azar gezdirin. Dağılma riskini bu şekilde azaltmış olursunuz. Şerbeti birden dökmeyin. Azar azar verin.",
+      "En az 2 saat kadar dinlendirip şekerpare tatlısını servis edebilirsiniz. Afiyet olsun."
+    ],
+    "category": "Şerbetli Tatlı",
+    "origin": "Turkish"
+  },
+  {
+    "id": 23,
+    "name": "Tas Kebabı",
+    "ingredients": [
+      "800 gram kuşbaşı dana eti",
+      "1 yemek kaşığı ayçiçek yağı",
+      "2 yemek kaşığı tereyağı",
+      "1 adet orta boy kuru soğan",
+      "3 diş sarımsak",
+      "1 yemek kaşığı un",
+      "1 tatlı kaşığı domates salçası",
+      "1 tatlı kaşığı tuz",
+      "2 adet orta boy patates",
+      "1 adet orta boy havuç",
+      "3 su bardağı sıcak su",
+      "4 adet tane karabiber"
+    ],
+    "steps": [
+      "Tas kebabı hazırlamak için önce 1 yemek kaşığı sıvı yağ ve 2 yemek kaşığı tereyağını tencerede kızdırın. Üzerine 800 gram dana kuşbaşı etini ekleyin ve etler suyunu salıp çekene kadar kavurun.",
+      "Yemeklik doğranmış 1 adet soğanı ve 3 diş doğranmış sarımsağı da ekledikten sonra etlerle beraber kavurmaya devam edin.",
+      "Bu aşamada ekleyeceğiniz 1 yemek kaşığı unu, kokusu çıkana kadar yaklaşık 2-3 dakika etlerle birlikte kavurun. 1 tatlı kaşığı salçayı ekleyin ve karıştırın.",
+      "Ardından 1 tatlı kaşığı tuz, 2 adet küp doğranmış patates, 1 adet küp doğranmış havuç ve 1 çay kaşığı karabiberi (4 adet tane) de ekleyip 3 su bardağı su ilave edin.",
+      "Kapağını kapattığınız tencerede, kısık ateşte 30 dakika kadar pişirin.",
+      "Kıvamlı bir sos halini alan suyu ve sebzelerle birlikte pişen eti, sıcak olarak bekletmeden servis edin. Tas kebabı hazır! Afiyet olsun."
+    ],
+    "category": "Et",
+    "origin": "Turkish"
+  },
+  {
     "id": 31,
+    "name": "Tavuk Sote",
+    "ingredients": [
+      "2 yemek kaşığı sıvı yağ",
+      "300 gram tavuk göğsü",
+      "1 adet soğan",
+      "1 adet yeşil biber",
+      "1/2 adet kırmızı biber",
+      "1 adet doğranmış domates",
+      "1 çay kaşığı tuz",
+      "1 çay kaşığı karabiber",
+      "1 çay kaşığı pul biber",
+      "1 çay kaşığı kuru nane"
+    ],
+    "steps": [
+      "Tavuk sote için bir tavanın içerisine 2 yemek kaşığı sıvı yağı alın ve üzerine 300 gram kuşbaşı doğranmış tavuğu ilave ederek yüksek ateşte soteleyin.",
+      "Pişen tavukların üzerine 1 adet doğranmış soğanı ilave ederek sotelemeye devam edin. ",
+      "1 adet doğranmış yeşil biber ve yarım adet doğranmış kapya biberi de ekleyin.",
+      "1 adet doğranmış domatesi de tavanın içerisine aktarın.",
+      "Biraz suyunu çektikten sonra sırasıyla birer çay kaşığı tuz, karabiber, pul biber ve kuru nane ilave ederek güzelce karıştırın.",
+      "İyice pişince tavuk sotenizi ocaktan alın ve servis edin. Tavuk sote hazır. Afiyet olsun!"
+    ],
+    "category": "Tavuk",
+    "origin": "Turkish"
+  },
+  {
+    "id": 36,
+    "name": "Kuru Fasulye",
+    "ingredients": [
+      "500 gram kuru fasulye",
+      "4 yemek kaşığı sıvı yağ",
+      "2 yemek kaşığı tereyağı",
+      "1 adet orta boy kuru soğan",
+      "1 yemek kaşığı domates salçası",
+      "3 su bardağı su",
+      "1 çay kaşığı tuz",
+      "1 çay kaşığı toz şeker",
+      "1/2 çay kaşığı tatlı toz kırmızı biber"
+    ],
+    "steps": [
+      "Kuru fasulye yemeği için 4 yemek kaşığı sıvı yağ ve 2 yemek kaşığı tereyağını derin bir tencereye aktarın ve kızdırın. 1 adet yemeklik doğranmış kuru soğanı da ekleyin ve pembeleşinceye kadar kavurun. Soğanların iyice kavrulması ve tereyağının doğal olması lezzeti arttıracaktır.",
+      "Soğanlar kavrulduktan sonra 1 yemek kaşığı domates salçasını ekleyin ve kokusu çıkana kadar kavurun.",
+      "Son olarak bir gece önceden suda beklettiğiniz kuru fasulyeleri de tencereye ekleyin.",
+      "Sonra 1-2 dakika karıştırın ve 3 su bardağı su, 1 çay kaşığı kırmızı toz biber, 1 çay kaşığı tuz ve 1 çay kaşığı toz şekeri ekleyin, kapağını kapatıp fasulyeler yumuşayana kadar pişirin. Fasulyelerinizin cinsine göre su miktarını arttırabilirsiniz. Dilerseniz tavuk ya da et suyu da kullanabilirsiniz.",
+      "Kuru fasulye hazır. Tane tane pişmiş pirinç pilavı, cacık ve salata ile kuru fasulye yemeğini servis edebilirsiniz. Afiyet olsun!"
+    ],
+    "category": "Bakliyat",
+    "origin": "Turkish"
+  },
+  {
+    "id": 39,
+    "name": "Humus",
+    "ingredients": [
+      "2 su bardağı nohut",
+      "1 tatlı kaşığı karbonat",
+      "1/2 su bardağı tahin",
+      "1/2 çay bardağı zeytinyağı",
+      "2 adet limon",
+      "2 diş sarımsak",
+      "1,5 çay kaşığı tuz",
+      "1 tatlı kaşığı kimyon",
+      "1-2 yemek kaşığı su",
+      "1 yemek kaşığı zeytinyağı",
+      "1 tutam maydanoz",
+      "1 tutam nar taneleri",
+      "1 tutam toz kırmızı biber",
+      "1 tutam kimyon"
+    ],
+    "steps": [
+      "<p>Humus tarifi için nohutları 1 gece veya en az 4-5 saat öncesinden ıslatın.</p>",
+      "<p>Sindirimi kolaylaştırması ve daha kolay pişmesi için suyuna 1 tatlı kaşığı karbonat ekleyin.</p>",
+      "<p>Ertesi gün suyunu süzün ve tekrar sudan geçirin.</p>",
+      "<p>Nohutları tencereye alıp üzerine su ekleyin ve pişmeye bırakın. Çelik tencerede 45 dakika kadar pişecektir. Nohutlar iyice yumuşadıktan sonra ocaktan alın.</p>",
+      "Haşlanan ve suyu süzülmüş nohutları mutfak robotuna ya da blendera alın.",
+      "Üzerine 1/2 su bardağı tahin, 1/2 çay bardağı zeytinyağı, 2 adet limonun suyu, 2 diş sarımsak ve 1,5 çay kaşığı tuzu ekleyin.",
+      "Pürüzsüz bir kıvamda oluncaya kadar iyice ezin.",
+      "Son aşamada 1 tatlı kaşığı kimyonu ekleyin ve tekrar robottan geçirin.",
+      "<p>Eğer mutfak robotu zorlanıyorsa, azar azar su ilave ederek dilediğiniz kıvama ulaşmasını sağlayın.</p>",
+      "Ardından humusu servis tabağına alarak tatlı kaşığıyla ortasına bir yuvarlak çizin. Son olarak humusun üzerine zeytinyağını gezdirip, üzerine 1 tutam kıyılmış maydanoz, 1 tutam toz kırmızı biber ve 1 tutam kimyon serpin.",
+      "<p>Humus hazır, afiyet olsun!</p>"
+    ],
+    "category": "Meze",
+    "origin": "Turkish"
+  },
+  {
+    "name": "Enginar Dolması",
+    "ingredients": [
+      "3 adet enginar (taze, çiçek enginar)",
+      "1 çay bardağı pirinç",
+      "1/4 demet dereotu",
+      "3-4 dal taze soğan",
+      "1 adet soğan",
+      "1 adet limon suyu",
+      "1/4 su bardağı zeytinyağı",
+      "1 tatlı kaşığı toz şeker",
+      "1 tatlı kaşığı tuz",
+      "1 çay kaşığı karabiber",
+      "1 çay kaşığı yenibahar",
+      "1 çay kaşığı tarçın",
+      "1 adet taze sıkılmış limon suyu",
+      "3 yemek kaşığı zeytinyağı",
+      "2 su bardağı su"
+    ],
+    "steps": [
+      "Enginar dolması için enginarların saplarını çiçeğe yakın yerden kesin, güzelce yıkayın. Dış yapraklarının bir kısmını koparın. Enginarları yan yatırıp 2 parmak kadarını kesin.",
+      "Ortasından başlayarak birkaç sıra yaprağını çekerek koparın ve göbek kısmında yer alan tüylü kısmı da bir kaşık yardımıyla oyarak temizleyin. Yapraklarını dilediğiniz şekilde seyreltebilirsiniz. Bu şekilde hazırladıktan sonra derin bir kap içinde limonlu suda bekletin.",
+      "İç harcı için gerekli tüm malzemeleri bir kap içinde karıştırın.",
+      "Hazırladığınız iç harç ile enginarları güzelce doldurun. Ara yapraklarına da harçtan koyabilirsiniz. Enginarları tencereye alın. Suyu ve zeytinyağını ekleyip tencerenin kapağını kapatın.",
+      "Ocağın altını açın ve kaynamaya başlayınca altını kısıp pişmeye bırakın. Yapraklar yumuşayıp, pirinçler piştiğinde ocağı kapatın.",
+      "Tencerede soğumaya bırakın.",
+      "Dolmaları servis tabağına alın, üzerine zeytinyağı gezdirin. Doğranmış dereotu serperek servis edin. Enginar dolması hazır. Afiyet olsun."
+    ],
+    "category": "Dolma Sarma",
+    "origin": "Turkish",
+    "id": 79
+  },
+  {
+    "name": "Fırında Sebze Dizmesi",
+    "ingredients": [
+      "2 adet küçük boy kemer patlıcan",
+      "2 adet domates",
+      "2 adet kabak",
+      "2 diş sarımsak",
+      "1 dal taze kekik",
+      "1 çay bardağı zeytinyağı",
+      "1 tatlı kaşığı tuz",
+      "1 çay kaşığı karabiber"
+    ],
+    "steps": [
+      "Fırında sebze dizmesi için 2 adet küçük boy kemer patlıcan, 2 adet kabak ve 2 adet domatesi eşit kalınlıkta yuvarlak dilimler halinde kesin.",
+      "Fırın kabının tabanına ince doğranmış 2 diş sarımsağı yayın ve 1/2 çay bardağı zeytinyağı gezdirin.",
+      "Sebzeleri sırayla (patlıcan-kabak-domates şeklinde) dizerek kabı doldurun.",
+      "Üzerine 1 tatlı kaşığı tuz, 1 çay kaşığı karabiber ve 1 dal taze kekiği serpin. Kalan 1/2 çay bardağı zeytinyağını gezdirin. Önceden ısıtılmış 180 derece fırında yaklaşık 35-40 dakika, sebzeler yumuşayıp hafif kızarana kadar pişirin.",
+      "Sıcak ya da ılık servis edebilirsiniz. Fırında sebze dizmesi hazır. Afiyet olsun."
+    ],
+    "category": "Sebze",
+    "origin": "Turkish",
+    "id": 80
+  },
+  {
+    "name": "Şıhıl Mahşi",
+    "ingredients": [
+      "1 kilogram kabak",
+      "1 çay bardağı sıvı yağ",
+      "2 adet soğan",
+      "1 yemek kaşığı Hatay Yöresel Domates Salçası",
+      "500 gram dana kıyma",
+      "1,5 çay kaşığı tuz",
+      "1,5 çay kaşığı Teofarm Karabiber",
+      "1 çay kaşığı Hataydan Al Pul Biber",
+      "1 su bardağı haşlanmış nohut",
+      "1 avuç doğranmış maydanoz",
+      "1 yemek kaşığı Hatay Yöresel Domates Salçası",
+      "1 su bardağı su",
+      "1 tatlı kaşığı Teofarm Kuru Nane",
+      "1 su bardağı çırpılmış yoğurt",
+      "1 diş sarımsak"
+    ],
+    "steps": [
+      "Şıhıl mahşi için kabakları yıkayıp çatal yardımıyla dışına şekil verin ve kabakları ikiye bölüp içlerini alın. İçlerini  veya uç kısımlarını bir kenarda daha sonra üzerine koymak için saklayın. Kabakları kızgın sıvı yağda hafif yumuşayana kadar kızartın.",
+      "Ayrı bir tencerede sıvı yağ ile soğanları yumuşayana kadar kavurun.Ardından kıymayı ekleyip suyunu salıp çekene kadar kavurun.",
+      "Domates salçasını da ekleyip kokusu çıkana kadar kavurun.",
+      "Tuz, karabiber ve pul biber ekleyip karıştırın ve haşlanmış nohutu da ekleyin.",
+      "Son olarak doğranmış maydanozu ekleyip ocaktan alın.",
+      "Kabakların içerisine kıymalı harcı doldurun ve kabak içinden üzerine bir parça koyun.",
+      "Isıya dayanıklı kaba dizin.",
+      "Kabakların üzerine salçalı, naneli su ekleyin ve 190 derece fırında 30 dakika pişirin.",
+      "Servis ederken çırpılmış sarımsaklı yoğurt ve piştiği salçalı sudan gezdirerek servis edin. Şıhıl mahşi hazır. Afiyet olsun!"
+    ],
+    "category": "Dolma Sarma",
+    "origin": "Turkish",
+    "id": 81
+  },
+  {
+    "name": "Güveçte Tavuk Sote",
+    "ingredients": [
+      "2 adet tavuk göğsü",
+      "1 adet soğan",
+      "1 adet yeşil biber",
+      "1 adet kapya biber",
+      "1 diş sarımsak",
+      "1 yemek kaşığı domates salçası",
+      "1 tutam tuz",
+      "1 tutam karabiber",
+      "1 kase rendelenmiş kaşar peyniri",
+      "1/2 su bardağı sıcak su",
+      "3-4 yemek kaşığı sıvı yağ"
+    ],
+    "steps": [
+      "Güveçte tavuk sote için 3-4 yemek kaşığı sıvı yağda küp doğranmış 2 adet tavuk göğsünü tavaya alarak suyunu salıp rengi dönene kadar kavurun.",
+      "1 adet doğranmış soğanı, 1 adet doğranmış yeşil biberi, 1 adet doğranmış kapya biberi ve 1 diş rendelenmiş sarımsağı da ekleyip kavurmaya devam edin.",
+      "Ardından 1 yemek kaşığı domates salçası, birer tutam tuz-karabiber ve 1/2 su bardağı kadar sıcak su ekleyip pişmeye bırakın.",
+      "Tavuk soteyi güveç kaplarına paylaştırın.",
+      "Üzerine 1 kase kadar rendelenmiş kaşar peyniri ekleyin.",
+      "180 derecede kaşar peyniri eriyene kadar pişirin. Güveçte tavuk sote hazır. Afiyet olsun. "
+    ],
+    "category": "Tavuk",
+    "origin": "Turkish",
+    "id": 82
+  },
+  {
+    "name": "Falafel",
+    "ingredients": [
+      "1,5 su bardağı nohut (bir gece önceden ıslatılmış)",
+      "1 adet soğan",
+      "2 diş sarımsak",
+      "1/4 demet maydanoz",
+      "2 dal taze soğan",
+      "1 çay kaşığı tuz",
+      "1 çay kaşığı karabiber",
+      "1 çay kaşığı kişniş",
+      "1 çay kaşığı kimyon",
+      "1 çay kaşığı toz kırmızı biber",
+      "1 çay kaşığı kabartma tozu",
+      "2 yemek kaşığı un",
+      "2 su bardağı sıvı yağ",
+      "1 su bardağı süzme yoğurt",
+      "2 diş sarımsak",
+      "2 yemek kaşığı tahin",
+      "1 yemek kaşığı limon suyu"
+    ],
+    "steps": [
+      "Falafel yapımı için bir gece önceden suda beklettiğiniz 1,5 su bardağı nohutun suyunu süzün ve rondonun ya da blenderın içine dökün. (Nohutlar haşlanmayacak.)",
+      "Nohutların üzerine 1 adet soğanı, 2 diş sarımsağı, 1/4 demet maydanozu ve 2 dal taze soğanı ilave ederek bir kez çalıştırın.",
+      "Robot malzemeleri çektikten sonra kendiniz de bir spatula yardımıyla mutlaka biraz karıştırın. Ardından 1 çay kaşığı tuzu, 1 çay kaşığı karabiberi, 1 çay kaşığı kişnişi, 1 çay kaşığı kimyonu, 1 çay kaşığı toz kırmızı biberi ve 1 çay kaşığı kabartma tozunu ekleyin.",
+      "<p>İri taneler kalmayana kadar robottan geçirin.</p>",
+      "Hazırlanan karışımı derin bir kabın içerisine alıp 2 yemek kaşığı unu ekleyin. Bu aşamada kesinlikle yoğurmayın. Falafel harcımız hazır olunca toparlanması için buzdolabında en az 1 saat bekletin.",
+      "Buzdolabından çıkarttığınız falafel harcından elinizle cevizden küçük parçalar alarak yuvarlayın.",
+      "<p>Falafel köfteleriniz hazır olduğunda iyice kızdırdığınız yağın içerisine atıp kızartmaya başlayın.</p>",
+      "<p>Falafelleri kızartırken içlerinin güzelce pişmesi için orta ateşte kızartmaya dikkat edin. Falafeller hazır!</p>",
+      "Son olarak sosu hazırlamak için 1 su bardağı süzme yoğurdun içine 2 diş sarımsağını, 2 yemek kaşığı tahini, 1 yemek kaşığı limon suyunu ekleyin.",
+      "<p>Güzelce karıştırın.</p>",
+      "Kızarttığınız falafel köftelerini hazırladığınız sos ile birlikte servis edebilirsiniz. Falafel hazır. Afiyet olsun!"
+    ],
+    "category": "Tuzlu Atıştırmalık",
+    "origin": "Turkish",
+    "id": 87
+  },
+  {
+    "name": "Çikolatalı Sufle",
+    "ingredients": [
+      "125 gram bitter çikolata",
+      "125 mililitre süt",
+      "3 adet yumurta",
+      "2 yemek kaşığı tereyağı",
+      "1,5 yemek kaşığı un",
+      "1/4 çay kaşığı tuz",
+      "2 yemek kaşığı toz şeker",
+      "1 yemek kaşığı tereyağı",
+      "1 yemek kaşığı kakao",
+      "1 yemek kaşığı pudra şekeri"
+    ],
+    "steps": [
+      "Çikolatalı sufle için 125 mililitre sütü bir sos tenceresine alın ve kaynama noktasına gelinceye kadar ısıtın.",
+      "İçerisine 125 gram bitter çikolatayı ilave edin. Çikolata eridikten sonra ocaktan alın.",
+      "Ayrı bir sos tenceresinde 2 yemek kaşığı tereyağını eritin.",
+      "Üzerine 1,5 yemek kaşığı unu ilave ederek, kokusu çıkana kadar kavurun.",
+      "Unun kokusu çıktıktan sonra çikolatalı süt karışımının içerisine ilave edin ve 2 yemek kaşığı toz şekeri ilave ederek sürekli olarak karıştırın.",
+      "3 adet yumurta sarısını da ilave edin, 2 dakika daha karıştırdıktan sonra ocaktan alın ve soğumaya bırakın.",
+      "Derin bir kasede 3 adet yumurta beyazlarını bir çimdik tuz ile birlikte kaseyi ters çevirdiğinizde akmayacak kıvama gelinceye kadar çırpın.",
+      "Soğumuş olan çikolatalı karışım ile köpük haline gelmiş yumurta aklarını birleştirin ve spatula yardımıyla karıştırın.",
+      "Yağlanmış ve kakao ile kaplanmış sufle kaplarına bir parmak boşluk kalacak şekilde harcı bölüştürün ve önceden ısıtılmış 200 derece fırında 10 dakika pişirin.",
+      "Çikolatalı sufle hazır! Fırından çıkar çıkmaz üzerine pudra şekeri serpiştirip servis edin, afiyet olsun!"
+    ],
+    "category": "Çikolatalı Tatlı",
+    "origin": "Turkish",
+    "id": 88
+  },
+  {
+    "name": "Ayva Tatlısı",
+    "ingredients": [
+      "2 adet büyük boy ayva",
+      "8 yemek kaşığı toz şeker",
+      "1 su bardağı su",
+      "3/4 çay bardağı nar suyu",
+      "1 adet çubuk tarçın",
+      "5 adet karanfil",
+      "1/2 adet limonun suyu",
+      "100 gram kaymak",
+      "1 yemek kaşığı pirinç Antep fıstığı"
+    ],
+    "steps": [
+      "Ayva tatlısı için 2 adet ayvanın kabuklarını tencerenin tabanına dizin.",
+      "Ayvaları da tencereye ekleyin.",
+      "Ardından 8 yemek kaşığı şekeri, ayvaların üzerine paylaştırın.",
+      "1 su bardağı su, 3/4 çay bardağı nar suyu, 1 adet limonun suyu, ayva çekirdekleri, 1 adet çubuk tarçın, 5 adet karanfili de tencereye yerleştirin.",
+      "Tencereyi ocağa alın ve kaynayana kadar yüksek ateşte, ardından kısık ateşte 30-35 dakika civarı pişirin. Sürenin sonunda suyunu iyice çekip renk alan ayvaları bir bıçakla yardımıyla pişip pişmediğini kontrol edin.",
+      "Pişmişse ilk sıcaklığının geçmesi için ocaktan alın ve dinlenmeye bırakın.",
+      "Ayva tatlısı hazır. Pişen ayvaları servis tabağına alın ve tencerede kalan şerbetinden hafifçe üzerine sürün. 100 gram kaymak ve 1 yemek kaşığı Antep fıstığı ilavesiyle ılık ya da soğuk olarak tatlıları servis edebilirsiniz. Ayva tatlısı hazır. Afiyet olsun!"
+    ],
+    "category": "Meyveli Tatlı",
+    "origin": "Turkish",
+    "id": 89
+  },
+  {
+    "name": "Lokma Tatlısı",
+    "ingredients": [
+      "3,5 su bardağı un",
+      "2 su bardağı ılık su",
+      "1 paket kuru maya",
+      "1 yemek kaşığı toz şeker",
+      "2,5 su bardağı ayçiçek yağı",
+      "2 su bardağı toz şeker",
+      "1,5 su bardağı su",
+      "3-4 damla limon suyu"
+    ],
+    "steps": [
+      "Lokma tatlısı için 3,5 su bardağı unu geniş bir kabın içine alın ve ortasını havuz şeklinde açın. 1 paket kuru maya, 1 yemek kaşığı toz şeker ilave edin.",
+      "2 su bardağı ılık suyu ilave ederek yoğurmaya başlayın. Ele yapışan ve cıvık bir hamur elde edin.",
+      "Hamurunuzun üzerini kapatın, oda sıcaklığında 1 saat mayalandırın.",
+      "Hamur mayalanırken şerbetini hazırlayın. Tencerenin içerisine 2 su bardağı toz şeker ve 1,5 su bardağı suyu aktarın. Şeker eriyince limon suyunu ilave edin. Hafif kaynayınca ocaktan alın ve soğumaya bırakın.",
+      "Mayalanan hamuru sıkma torbasına aktarın.",
+      "Yağlanmış mutfak makası yardımıyla hamurunuzdan küçük toplar kesin. Kızgın yağın içerisinde kızartın.",
+      "Kızan lokmaları kevgir yardımıyla alın ve soğuk şerbetin içerisine atın. 10 saniye kadar şerbetin içerisinde tutun.",
+      "Üzerine tarçın serperek nefis lokmalarınızı servis edebilirsiniz. Lokma tatlısı hazır. Afiyet olsun."
+    ],
+    "category": "Şerbetli Tatlı",
+    "origin": "Turkish",
+    "id": 90
+  },
+  {
+    "name": "Kazandibi",
+    "ingredients": [
+      "7 su bardağı süt",
+      "1 çay bardağı pirinç unu",
+      "1 çay bardağı buğday nişastası",
+      "1,5 su bardağı toz şeker",
+      "1 paket vanilya",
+      "1 yemek kaşığı tereyağı",
+      "4 yemek kaşığı pudra şekeri"
+    ],
+    "steps": [
+      "Kazandibi sübyesi için bir kasede 2 su bardağı sütü, 1/2 su bardağı toz şekeri, 1'er çay bardağı buğday nişastasını ve pirinç ununu karıştırın. Topak kalmayana kadar çırpıcı yardımıyla çırpın.",
+      "Geniş bir tencereye kalan 5 su bardağı sütü ve 1 su bardağı şekeri ilave edin. Bir taşım kaynatın. Kaynayan süte yavaş yavaş sübyeyi ilave ederek sürekli karıştırın. Ocağı kısık ateşe getirerek, sürekli karıştırarak muhallebi kıvamına gelene kadar pişirin.",
+      "Muhallebi koyulaşıp göz göz olduğunda ocaktan alın ve 1 paket vanilyayı ilave edip tekrar karıştırın. Oda sıcaklığında soğumaya bırakın.",
+      "Köşeli bir borcamı 1 yemek kaşığı tereyağıyla yağlayın ve üzerine eşit olacak şekilde 4 yemek kaşığı pudra şekerini eleyin.",
+      "Tepsiyi ocak üzerinde çevire çevire karışımı yakın. Tüm şeker eriyip karamelize olunca, tepsinin dibine muhallebiden ince bir kat sürün ve bir tur da muhallebiyle birlikte yakın.",
+      "Yakma işlemi bittiğinde kalan muhallebiyi de tepsiye dökün. Üzerini bir spatula yardımıyla düzeltin.",
+      "Buzdolabına kaldırıp kıvam alması için soğuttuğunuz tatlıyı, ince uzun dilimlere ayırın ve spatula yardımıyla kıvırarak rulo şeklinde sarın. Ev yapımı mis kokulu kazandibi hazır, afiyet olsun!"
+    ],
+    "category": "Sütlü Tatlı",
+    "origin": "Turkish",
+    "id": 91
+  },
+  {
+    "name": "Köri Soslu Tavuk",
+    "ingredients": [
+      "600 gram kuşbaşı tavuk göğsü",
+      "2 yemek kaşığı sıvı yağ",
+      "1 yemek kaşığı un",
+      "2 yemek kaşığı tereyağı",
+      "2 su bardağı soğuk süt",
+      "1/2 su bardağı sıcak su",
+      "1 tatlı kaşığı köri",
+      "1 çay kaşığı karabiber",
+      "1 çay kaşığı tuz",
+      "1/4 demet maydanoz"
+    ],
+    "steps": [
+      "Köri soslu tavuk için 2 yemek kaşığı sıvı yağı bir tavada kızdırın. 600 gram kuşbaşı doğranmış tavuk göğsünü aktarın.",
+      "Renk alıp, suyunu çekene kadar orta ateşte kavurun.",
+      "Köri sosu hazırlamak için ayrı bir tavada 2 yemek kaşığı tereyağını sos tenceresinde eritin.",
+      "1 yemek kaşığı unu da üzerine ekleyin ve kokusu çıkıp, renk alana kadar karıştırarak kavurun.",
+      "Kavrulan una 2 su bardağı soğuk sütü ekleyin ve unun topaklanmaması için bir çırpıcı yardımıyla hızlıca karıştırın.",
+      "1/2 su bardağı sıcak su, 1 tatlı kaşığı köri, 1 çay kaşığı tuz ve 1 çay kaşığı karabiberi katın.",
+      "Sosu, kısık ateşte koyu bir kıvam alana kadar sürekli karıştırarak 4-5 dakika pişirin.",
+      "Hazırladığınız sosu, kavrulan tavuklara ekleyin ve harmanladıktan sonra pişirme işlemini 5 dakika kadar sürdürün.",
+      "İncecik kıyılmış 1/4 demet maydanozu köri soslu tavuğa ilave ettikten sonra bekletmeden sıcak olarak servis edin.",
+      "Köri soslu tavuk tarifi hazır. Afiyet olsun!"
+    ],
+    "category": "Tavuk",
+    "origin": "Turkish",
+    "id": 92
+  },
+  {
+    "name": "Et Sote",
+    "ingredients": [
+      "600 gram sotelik dana eti",
+      "4 yemek kaşığı zeytinyağı",
+      "1 adet orta boy kuru soğan",
+      "2 adet orta boy domates",
+      "3 adet orta boy yeşil biber",
+      "1 tatlı kaşığı domates salçası",
+      "1/2 tatlı kaşığı biber salçası",
+      "1 su bardağı sıcak su",
+      "1 çay kaşığı tuz",
+      "1/2 çay kaşığı taze çekilmiş tane karabiber",
+      "1 tatlı kaşığı kekik"
+    ],
+    "steps": [
+      "Et sote için öncelikle döküm bir tavada 4 yemek kaşığı zeytinyağını kızdırın. 1 adet yemeklik ince doğradığınız soğanları tavaya ekleyin.",
+      "Renk alan soğanların üzerine 3 adet doğranmış yeşil biber ekleyin ve sotelemeye devam edin.",
+      "Sotelik doğradığınız 600 gram dana etini ilave edin.",
+      "Suyunu salmaması, lezzet ve vitamin değerini hapsetmesi için; yüksek ateşte, yaklaşık 2-3 dakika hiç karıştırmadan mühürleyin.",
+      "Dış kısmı renk alan etleri aralarda karıştırarak yüksek ateşte sotelemeye devam edin.",
+      "3 adet soyulmuş, doğranmış domatesi ekleyerek karıştırın. Ardından 1 çay kaşığı tuz, karabiber, 1 tatlı kaşığı kekiği de ekleyin.",
+      "Bir tatlı kaşığı domates ve yarım tatlı kaşığı biber salçasını 1 su bardağı sıcak su ile sulandırdıktan sonra azar azar tavaya ekleyin.",
+      "Kısık ateşte etler yumuşayana kadar pişirin.",
+      "Etleri yumuşayan soteyi, lezzetli suyuyla birlikte servis tabaklarına alın ve sıcak sıcak servis edin. Et sote hazır!  Afiyet olsun."
+    ],
+    "category": "Et",
+    "origin": "Turkish",
+    "id": 93
+  },
+  {
+    "name": "Zeytinyağlı Yaprak Sarma",
+    "ingredients": [
+      "300 gram asma yaprağı",
+      "1 adet limon",
+      "4 yemek kaşığı zeytinyağı",
+      "1,5 su bardağı sıcak su",
+      "1/2 su bardağı zeytinyağı",
+      "3 adet orta boy kuru soğan",
+      "1,5 su bardağı pirinç",
+      "1 su bardağı sıcak su",
+      "1 yemek kaşığı dolmalık fıstık",
+      "1 yemek kaşığı kuş üzümü",
+      "1 çay kaşığı tuz",
+      "1 çay kaşığı karabiber",
+      "1 çay kaşığı nane",
+      "1 çay kaşığı yenibahar",
+      "1/2 çay kaşığı tarçın"
+    ],
+    "steps": [
+      "Zeytinyağlı yaprak sarmanın iç harcını hazırlamak için; yarım su bardağı zeytinyağını geniş tabanlı bir tencerede kızdırın. 3 adet rendelenmiş soğanı hafif renk alana kadar kavurun. Ardından üzerine 1,5 yemek kaşığı dolmalık fıstığı da  koyup kavurmaya devam edin.",
+      "Ilık suda 5 dakika kadar bekletip suyunu süzdürdüğünüz 1,5 su bardağı pirinci soğanlarla birlikte, pirinçler şeffaf bir görünüm kazanana kadar kavurun.",
+      "Ardından sırasıyla; 1 yemek kaşığı kuş üzümü, 1'er çay kaşığı tuz, karabiber, yenibahar ve tarçın ekleyip karıştırın.",
+      "Yaklaşık 1 su bardağı sıcak suyu da ilave edin ve iç harcı kısık ateşte 5 dakika kadar pişirdikten sonra ocaktan alın.",
+      "Salamura asma yapraklarını tezgahın üzerinde damarlı kısımları üstte kalacak şekilde açın. Her bir yaprağın orta kısmına; hazırlayıp, ılıttığınız iç harçtan birer tatlı kaşığı kadar paylaştırın.",
+      "Kenar kısımlarını içe alıp, geniş kısmından uç kısmına doğru ilerleyin.",
+      "Tüm yaprakları sıkı bir şekilde sarın.",
+      "Sarma tenceresinin tabanını birkaç adet asma yaprağı ile kaplayın.",
+      "Hazırladığınız yaprak sarmaları, sıra halinde, yan yana dizin. Limonu halka halka dilimledikten sonra sarmaların üzerine yerleştirin.",
+      "Pişme esnasında açılmamaları için; üzerlerine düz bir servis tabağı kapatın. 1,5 su bardağı sıcak su ve 2 yemek kaşığı zeytinyağını da tencereye ekledikten sonra sarmaları, kısık ateşte yaklaşık 35 dakika pişirin.",
+      "Arzuya göre; zeytinyağlı yaprak sarmaları ılık ya da soğuk olarak servis edin. Afiyet olsun."
+    ],
+    "category": "Zeytinyağlı",
+    "origin": "Turkish",
+    "id": 94
+  },
+  {
+    "name": "Mantarlı Tavuk Sote",
+    "ingredients": [
+      "600 gram kuşbaşı tavuk göğsü",
+      "300 gram kültür mantarı",
+      "3 yemek kaşığı zeytinyağı",
+      "2 adet yeşil biber",
+      "2 adet kapya biber",
+      "1 adet domates",
+      "1 çay kaşığı taze çekilmiş renkli tane karabiber",
+      "1 tatlı kaşığı kekik",
+      "1 çay kaşığı tuz"
+    ],
+    "steps": [
+      "Mantarlı tavuk sote için önce 3 yemek kaşığı zeytinyağını tavada kızdırın. 600 gram kuşbaşı doğranmış tavuk göğüslerini, suyunu salmaması için yüksek ateşte soteleyin.",
+      "Ardından 2 adet doğranmış yeşil ve kırmızı biberleri ekleyip sotelemeye devam edin.",
+      "300 gram doğranmış mantarı da ekleyip, suyunu salıp çekene kadar, soteleme işlemini 10 dakika kadar sürdürün.",
+      "Son olarak; 1 adet kabukları soyulup doğranmış domates, 1 çay kaşığı tuz, 1 çay kaşığı çekilmiş tane karabiber ve 1 tatlı kaşığı kekiği de ekleyin.",
+      "15 dakika kadar pişmeye bırakın.",
+      "Domatesler suyunu çektiğinde mantarlı tavuk sote tarifi hazır demektir. Afiyet olsun!"
+    ],
+    "category": "Tavuk",
+    "origin": "Turkish",
+    "id": 95
+  },
+  {
+    "name": "Arnavut Ciğeri",
+    "ingredients": [
+      "600 gram ciğer",
+      "1 çay bardağı un",
+      "1 çay kaşığı tuz",
+      "1 çay kaşığı karbonat",
+      "1 su bardağı sıvı yağ",
+      "1,5 çay kaşığı toz kırmızı biber",
+      "1 çay kaşığı toz kişniş",
+      "2 adet patates",
+      "2 su bardağı sıvı yağ",
+      "1 adet kırmızı soğan",
+      "1 çay kaşığı tuz",
+      "1 çay kaşığı sumak",
+      "1/2 demet doğranmış maydanoz"
+    ],
+    "steps": [
+      "Arnavut ciğeri yapımı için üzerinde bulunan zarı ayıkladığınız 600 gram kuzu ciğerini kuşbaşı büyüklüğünde kesin. Derin bir süzgece aldığınız doğranmış kuzu ciğerlerini kanının süzülmesi için bekletin.",
+      "Kanını süzdürdüğünüz ciğerleri 1'er çay kaşığı karbonat, tuz eklediğiniz 1 çay bardağı una bulayın. Ciğerlerin üzerindeki fazla unu almak için tekrar süzgeçten geçirin.",
+      "Ciğerleri tavadaki ısınmış 1 su bardağı yağın içerisine koyun. Ciğerler pişmeye başladığında 1,5 çay kaşığı kırmızı toz biber ve 1 çay kaşığı toz kişniş ekleyin. Pişen ciğerlerin fazla yağını süzdürerek bir tabağa aktarın.",
+      "Ayrı bir tavada kızdırdığınız 2 su bardağı sıvı yağda küp küp doğradığınız 2 adet patatesi kızartın ve ciğerlerin olduğu kaseye ekleyin.",
+      "Piyazlık doğradığınız 1 adet kırmızı soğanı, 1 çay kaşığı tuz ile ovarak öldürün. Üzerine 1 çay kaşığı sumak ve 1/2 demet doğranmış maydanozu da ekledikten sonra güzelce karıştırın ve Arnavut ciğerlerinin olduğu kaseye ekleyip diğer malzemelerle birlikte güzelce harmanlayın.",
+      "Arnavut ciğeri hazır! Afiyet olsun."
+    ],
+    "category": "Sakatat",
+    "origin": "Turkish",
+    "id": 96
+  },
+  {
+    "name": "Kabak Yemeği",
+    "ingredients": [
+      "5 adet orta boy kabak",
+      "1 adet orta boy kuru soğan",
+      "3 diş sarımsak",
+      "4 yemek kaşığı zeytinyağı",
+      "1 adet büyük boy domates",
+      "1/2 tatlı kaşığı domates salçası",
+      "2 yemek kaşığı pirinç",
+      "2 su bardağı sıcak su",
+      "1 çay kaşığı tuz",
+      "1 çay kaşığı karabiber",
+      "1/2 demet dereotu"
+    ],
+    "steps": [
+      "<p>Kabak yemeği için 4 yemek kaşığı zeytinyağını tencerede kızdırın ve üzerine 1 adet yemeklik doğranmış soğanları ekleyin ve pembeleşinceye kadar kavurun.</p>",
+      "<p>3 diş doğranmış sarımsak ve yarım tatlı kaşığı domates salçasını ekleyin ve kokusu çıkana kadar kavurun.</p>",
+      "<p>1 adet büyük boy soyulmuş ve küp soğranmış domatesleri ekleyin ve kavurmaya devam edin.</p>",
+      "<p>5 adet doğranmış orta boy kabak, 1'er çay kaşığı tuz ve karabiber, 2 yemek kaşığı yıkanmış pirinci ve 2 su bardağı sıcak suyu ekleyip orta ateşte pişmeye bırakın.</p>",
+      "<p>Piştikten sonra 1 avuç doğranmış dereotu ekleyip karıştırın.</p>",
+      "Kabak yemeği hazır! Sıcak olarak servis edin afiyet olsun."
+    ],
+    "category": "Zeytinyağlı",
+    "origin": "Turkish",
+    "id": 97
+  },
+  {
+    "name": "Alinazik",
+    "ingredients": [
+      "50 gram tereyağı",
+      "1 diş sarımsak",
+      "250 gram kuşbaşı et (küçük doğranmış)",
+      "1 yemek kaşığı biber salçası",
+      "1 çay kaşığı toz kırmızı biber",
+      "1 çay kaşığı tuz",
+      "1 kase yoğurt",
+      "3 adet közlenmiş patlıcan",
+      "1 çay kaşığı tuz"
+    ],
+    "steps": [
+      "Alinazik tarifi için 50 gram tereyağını derin bir tavanın içine alın. 1 diş sarımsağı ilave ederek hafifçe soteleyin.",
+      "Ardından minik doğranmış 250 gram kuşbaşı etleri ekleyerek karıştırın, kapağını kapatıp 6-7 dakika kısık ateşte suyunu salıp pişene kadar bırakın.",
+      "Piştikten sonra 1 yemek kaşığı salça, 1 çay kaşığı toz kırmızı biber ve 1 çay kaşığı tuz ekleyerek tatlandırın ve ocaktan alın.",
+      "3 adet közlenmiş patlıcanı kesme tahtasının üzerinde keskin bir bıçak yardımıyla dövün.",
+      "Dövme aşamasında üzerine 1 çay kaşığı tuz atın.",
+      "İyice ezildiklerinde 250 gram yoğurtla bir kasenin içinde birleştirin ve güzelce karıştırın.",
+      "Servis tabağının içerisine yoğurtlu patlıcanlı karışımı alın. Ortasını çukurlaştırın. Hazırladığınız etleri de üzerine yerleştirin. Sosunu ilave ederek servis edin. Alinazik hazır. Afiyet olsun."
+    ],
+    "category": "Et",
+    "origin": "Turkish",
+    "id": 98
+  },
+  {
+    "name": "Karnabahar Kızartması",
+    "ingredients": [
+      "1 adet orta boy karnabahar",
+      "5 su bardağı sıcak su",
+      "1 tatlı kaşığı un",
+      "1 su bardağı süt",
+      "2 adet yumurta",
+      "1 çay kaşığı tuz",
+      "4 yemek kaşığı un",
+      "1 su bardağı sıvı yağ"
+    ],
+    "steps": [
+      "Karnabahar kızartması için sert yapıda olan kök kısmını kestiğiniz ve yeşil yapraklarını temizlediğiniz 1 adet orta boy karnabaharı çiçeklerine ayırın.",
+      "Karnabaharın kendine has kokusunu alması ve sindirimi rahatlatması adına tencereye aktardığınız 1 tatlı kaşığı un ve 5 su bardağı sıcak suda karnabaharları 6-8 dakika kadar haşlayın.",
+      "Haşlanan karnabaharları suyunu süzdükten sonra bir kevgir yardımıyla servis tabağına çıkartın.",
+      "Kızartma harcı için ayrı bir kaba aldığınız 2 adet yumurta, 1 su bardağı süt, 4 yemek kaşığı un ve 1 çay kaşığı tuzu bir çırpıcı yardımıyla pürüzsüz bir kıvam alana kadar karıştırın.",
+      "1 su bardağı sıvı yağı geniş tabanlı bir tavada kızdırın. Kızartma harcına tamamen batırdığınız haşlanmış karnabaharları, kızgın yağda altın sarısı renk alana kadar kızartın.",
+      "Fazla yağını bırakması için kağıt havlu üzerinde beklettiğiniz kızarmış karnabaharları, ılık olarak arzuya göre yoğurt sosuyla birlikte servis edin. Karnabahar kızartması hazır! Afiyet olsun."
+    ],
+    "category": "Sebze",
+    "origin": "Turkish",
+    "id": 99
+  },
+  {
+    "name": "Adana Kebap",
+    "ingredients": [
+      "600 gram kıyma",
+      "1 yemek kaşığı pul biber",
+      "2 tatlı kaşığı tuz",
+      "1 çay kaşığı karabiber",
+      "1 yemek kaşığı tereyağı",
+      "1 adet kapya biber"
+    ],
+    "steps": [
+      "Adana kebap için 600 gram kıymaya 1 yemek kaşığı pul biberi ekleyin ve 15 dakika yoğurun.",
+      "Sonrasında 2 tatlı kaşığı tuz, 1 çay kaşığı tuz, 1 adet kapya biber ve 1 yemek kaşığı tereyağını da ekleyip 5 dakika daha yoğurmaya devam edin.",
+      "Yoğururken ara ara elinizi ıslatın. Böylelikle yoğurma işlemi daha kolay olacaktır. Homojen bir kıvama gelene kadar yoğurun.",
+      "Kıvam alan kıymadan parçalar koparıp çöp şişlere geçirin.",
+      "En az 5-6 saat dinlenmesi için buzdolabına kaldırın.",
+      "Süre sonunda Adana kebabı ister fırında, isterseniz de tava da pişirebilirsiniz. Fırında pişireceksiniz 180 derecede önceden ısıtılmış fırında 20 dakika kadar ters yüz ederek pişirebilirsiniz. Dilerseniz pişirme kağıdı serili bir fırın tepsisinde ya da fırın ızgarası üzerinde pişirebilirsiniz.",
+      "Adana kebabı yanında bol garnitür ve ayranla servis edebilirsiniz. Afiyet olsun."
+    ],
+    "category": "Kebap",
+    "origin": "Turkish",
+    "id": 100
+  },
+  {
+    "name": "Kremalı Körili Tavuklu Makarna",
+    "ingredients": [
+      "1/2 paket kalem makarna",
+      "1 paket krema",
+      "1 tatlı kaşığı köri",
+      "2 çay kaşığı tuz",
+      "1 çay kaşığı karabiber",
+      "1 yemek kaşığı tereyağı",
+      "2 parça tavuk göğsü",
+      "100 gram parmesan"
+    ],
+    "steps": [
+      "Kremalı körili tavuklu makarna için öncelikle kalem makarnayı haşlayın.",
+      "2 parça tavuk göğsünü küp küp doğrayın.",
+      "Tavayı ısıtın ve 1 yemek kaşığı tereyağını eritin.",
+      "Eriyen tereyağında tavukları kavurun.",
+      "1 tatlı kaşığı köri, 1 çay kaşığı karabiber ve 2 çay kaşığı tuzu ilave edin.",
+      "1 paket kremayı ilave edin ve kısık ateşte pişirmeye ve kremayı yoğunlaştırmaya devam edin.",
+      "Makarnayı ilave edin ve henüz sıcakken 100 gram rendelenmiş parmesan ekleyip tavada çevirin.",
+      "Tabağa alın ve parmesan peyniri ilave edin. Kremalı körili tavuklu makarna hazır! Afiyet olsun."
+    ],
+    "category": "Makarna",
+    "origin": "Turkish",
+    "id": 101
+  },
+  {
+    "name": "Salçalı Makarna",
+    "ingredients": [
+      "1 paket spagetti",
+      "4 yemek kaşığı zeytinyağı",
+      "2 diş sarımsak",
+      "2 yemek kaşığı salça",
+      "1/4 su bardağı su",
+      "1 çay kaşığı tuz",
+      "1 çay kaşığı taze çekilmiş tane karabiber"
+    ],
+    "steps": [
+      "Salçalı makarna için derin bir tencereye suyu ve tuzu ekleyip kaynatın. 1 paket spagetti makarnayı kaynamış suda yaklaşık 10 dakika haşlayın.",
+      "Ardından ocaktan alıp suyunu süzün.",
+      "Bir tavada hafifçe kızdığınız 4 yemek kaşığı zeytinyağına önce 2 diş sarımsağı, sonra da 2 yemek kaşığı salçayı ekleyip kavurun.",
+      "Haşlanan makarna suyundan birkaç yemek kaşığı salçalı sosunuza ekleyin, hafif yoğun bir kıvam elde etmelisiniz. 1 çay kaşığı karabiber ekleyin ve karıştırın.",
+      "Haşlanmış makarnalarınızı süzün ve sosunuzu üzerine ekleyip karıştırın. Salçalı makarna servise hazır. Afiyet olsun!"
+    ],
+    "category": "Makarna",
+    "origin": "Turkish",
+    "id": 102
+  },
+  {
+    "name": "Mantarlı Makarna",
+    "ingredients": [
+      "1/2 paket kalem makarna",
+      "4 su bardağı sıcak su",
+      "300 gram kültür mantarı",
+      "1 yemek kaşığı tereyağı",
+      "1 çay kaşığı karabiber",
+      "1,5 çay kaşığı tuz"
+    ],
+    "steps": [
+      "4 su bardağı suyu derin bir tencereye alın ve kaynatın. Kaynayan suyun içine tuz ilave edin. Makarnayı kaynayan suya ilave edin. Yaklaşık 7 dakika haşlayın ve süzün.",
+      "1 yemek kaşığı tereyağını tavada eritin ve temizlenmiş mantarları tavada çevirin. Mantarlar suyunu salıp çekince tuz ve karabiberle lezzetlendirin.",
+      "Haşlanan makarnaları mantarların olduğu tavaya alın ve harmanlayın.",
+      "Arzuya göre üzerine kıyılmış maydanoz serpebilirsiniz. Afiyet olsun!"
+    ],
+    "category": "Makarna",
+    "origin": "Turkish",
+    "id": 103
+  },
+  {
+    "name": "Mac and Cheese",
+    "ingredients": [
+      "500 gram dirsek makarna",
+      "2 yemek kaşığı un",
+      "2 yemek kaşığı tereyağı",
+      "3 su bardağı süt",
+      "1/2 çay kaşığı tuz",
+      "1 çay kaşığı karabiber",
+      "1/4 çay kaşığı muskat cevizi rendesi",
+      "2 su bardağı rendelenmiş kaşar peyniri",
+      "1 su bardağı rendelenmiş eski kaşar peyniri",
+      "1 su bardağı çeçil peyniri",
+      "1 su bardağı rendelenmiş Kolot peyniri",
+      "1 su bardağı rendelenmiş cheddar peyniri",
+      "2 adet yumurta sarısı"
+    ],
+    "steps": [
+      "Mac and cheese için öncelikle makarnayı kaynar ve tuzlu suda yarı çiğ kalacak şekilde haşlamaya bırakın.",
+      "Makarnalar haşlanırken derin bir tencerede un ve tereyağı kavurun. Üzerine sütü azar azar ekleyip, sürekli karıştırarak koyu akışkan bir beşamel sos yapın.",
+      "Sosun altını kısın baharatları ekleyin. Sonrasında rendelenmiş peynirleri ekleyin. Eklerken üzeri içinde tüm peynirlerden ayırmayı unutmayın. Peynirler eriyene kadar karıştırın. Çok koyulaşırsa ara ara süt ekleyebilirsiniz.",
+      "Makarnayı süzün ve doğruca sosun içine ekleyip karıştırın. Son olarak karışıma yumurta sarılarını da ekleyin ve fırın tepsisine dökün. Kalan peynirleri de üstüne ekleyip önceden ısıtılmış 190 derecelik fırında peynirler kızarana kadar yaklaşık 30 dakika pişirin. Mac and cheese hazır! Afiyet olsun."
+    ],
+    "category": "Makarna",
+    "origin": "Turkish",
+    "id": 104
+  },
+  {
+    "name": "Tereyağlı Erişte",
+    "ingredients": [
+      "2 su bardağı erişte",
+      "2 yemek kaşığı tereyağı",
+      "1 yemek kaşığı sıvı yağ",
+      "2 çay kaşığı tuz",
+      "3 su bardağı kaynar su"
+    ],
+    "steps": [
+      "Tereyağlı erişte için yayvan bir tencereyi orta-kısık ateşte ocağa alın ve 2 yemek kaşığı tereyağı ile 1 yemek kaşığı sıvı yağı ekleyerek ısıtın.",
+      "2 su bardağı erişteyi tencereye dökün.",
+      "Hafif kahverengi bir renk alıncaya dek karıştırarak kavurun.",
+      "Erişteler kavrulduktan sonra 3 su bardağı kaynar suyu üzerine ekleyin ve 2 çay kaşığı tuzu da dökerek karıştırın. Kısık ateşe alarak kapağını kapatın ve suyunu çekinceye kadar pişirin.",
+      "Suyunu çekince altını kapatın ve 10-15 dakika kadar demlenmeye bırakın.",
+      "Tereyağlı erişte hazır. Afiyet olsun!"
+    ],
+    "category": "Makarna",
+    "origin": "Turkish",
+    "id": 105
+  },
+  {
+    "name": "Garnitürlü Makarna",
+    "ingredients": [
+      "1/2 paket yüksük makarna",
+      "1 konserve garnitür",
+      "1 küçük kutu konserve mısır",
+      "3-4 adet kornişon turşu",
+      "1 su bardağı yoğurt",
+      "2 yemek kaşığı mayonez",
+      "2 çay kaşığı tuz",
+      "1 çay kaşığı karabiber"
+    ],
+    "steps": [
+      "Garnitürlü makarna için tencereye su koyup kaynayınca makarnayı ekliyoruz. 9-10 dakika kadar makarnaları haşlıyoruz. Haşlanan makarnaları süzgeçte süzüyoruz.",
+      "Bir kaba süzdüğümüz garnitürü, mısırı ve doğradığımız turşuları ekliyoruz.",
+      "Tuzunu, karabiberini, yoğurdu ve mayonezi de ekleyip karıştırıyoruz.",
+      "En son makarnaları da ekleyip iyice karıştırıyoruz.",
+      "Garnitürlü makarna hazır. Afiyet olsun."
+    ],
+    "category": "Makarna",
+    "origin": "Turkish",
+    "id": 106
+  },
+  {
+    "name": "Pesto Soslu Makarna (Linguine al Pesto a)",
+    "ingredients": [
+      "400 gram linguine makarna",
+      "50 gram taze fesleğen",
+      "100 gram parmesan peyniri (24 aylık parmigiano reggiano)",
+      "15 gram çam fıstığı",
+      "1 diş sarımsak",
+      "100 ml. extravergine zeytinyağı",
+      "10 gram kaya tuzu (her 1 litre su için)",
+      "2 adet fesleğen yaprağı"
+    ],
+    "steps": [
+      "Pesto sosu hazırlamak için; taze fesleğen yapraklarını tek tek ayıklayın. Bol suda yıkadığınız fesleğen yapraklarını suyunu süzdürdükten sonra kağıt havlu yardımıyla tek tek kurulayın.",
+      "Parmesan peyniri ve sarımsağı rendeledikten sonra çam fıstığı ve taze fesleğen yapraklarıyla birlikte mutfak robotunda pürüzsüz hale gelene kadar karıştırın.",
+      "Zeytinyağını azar azar ekleyip, karıştırdığınız sosun kıvam almasını sağlayın. Hazırladığınız pesto sosu servis esnasında kullanmak üzere bir kenarda bekletin.",
+      "Linguine makarna haşlamak için; derin bir tencereye her bir litre için 10 gram kaya tuzu eklediğiniz bol miktarda suyu aktarın.",
+      "Kaynamaya başlayan suya makarnayı atıp, dişe dokunur ve yapışmaz al dente bir makarna yemek için 8-10 dakika kadar haşlayın.",
+      "Haşlama suyundan bir su bardağı kadar ayırdıktan sonra haşlanan makarnanın suyunu süzdürün.",
+      "Haşlanmış Linguine makarnayı ayrı bir tencereye alın, pesto sosu ile harmanladıktan sonra kenara ayırdığınız haşlama suyundan birkaç kaşık ekleyip, fesleğen yapraklarıyla süsledikten sonra makarnayı servis edin."
+    ],
+    "category": "Makarna",
+    "origin": "Turkish",
+    "id": 107
+  },
+  {
+    "name": "Yayla Çorbası",
+    "ingredients": [
+      "2 su bardağı yoğurt",
+      "2 yemek kaşığı tereyağı",
+      "1,5 yemek kaşığı (tepeleme) un",
+      "2 çay kaşığı tuz",
+      "2 yemek kaşığı limonun suyu",
+      "1 adet yumurta sarısı",
+      "1 tatlı kaşığı pul biber",
+      "6 su bardağı su",
+      "1 çay bardağı pirinç",
+      "2 yemek kaşığı zeytinyağı",
+      "1 yemek kaşığı kuru nane"
+    ],
+    "steps": [
+      "Yayla çorbasını pişireceğiniz tencereye 2 su bardağı yoğurt, 1,5 yemek kaşığı un, 2 yemek kaşığı limon suyu ekleyip pürüzsüz bir kıvama gelene kadar karıştırın.",
+      "1 yumurta sarısını da karışımın üzerine ekledikten sonra tekrar karıştırın.",
+      "6 su bardağı soğuk suyu da ilave edip orta ateşte kaynamaya bırakın.",
+      "Çorba kaynamaya başlayınca yıkayıp süzdüğünüz 1 çay bardağı pirinci ekleyin ve tekrar kaynamaya bırakın.",
+      "Bu sırada ayrı bir tavada 2'şer yemek kaşığı zeytinyağı ve tereyağını kızdırın. 1 yemek kaşığı kuru naneyi de üzerine ekleyip karıştırın ve ocaktan alın.",
+      "Hazırladığınız yağı kaynamakta olan çorbanın üzerine dökün. 1 tatlı kaşığı pul biberi ve 2 çay kaşığı tuzu da ekleyin.",
+      "Güzelce karıştırıp ocağın altını kapatın.",
+      "Yayla çorbanız hazır, afiyet olsun!"
+    ],
+    "category": "Çorba",
+    "origin": "Turkish",
+    "id": 108
+  },
+  {
+    "name": "Tarhana Çorbası",
+    "ingredients": [
+      "4 yemek kaşığı toz tarhana",
+      "1 yemek kaşığı kuru nane",
+      "7 su bardağı su",
+      "1 yemek kaşığı sıvı yağ",
+      "1 yemek kaşığı tereyağı",
+      "1 yemek kaşığı domates salçası",
+      "1 çay kaşığı tuz",
+      "1 diş sarımsak"
+    ],
+    "steps": [
+      "Tarhana çorbası için 4 yemek kaşığı toz tarhanayı geniş bir karıştırma kasesine alın. Üzerine 1 yemek kaşığı kuru nane ve oda sıcaklığındaki 2 bardak suyu ekleyerek bir çırpıcı yardımıyla karıştırın. Tarhana yumuşayana dek, yaklaşık 15 dakika boyunca oda sıcaklığında yumuşamaya bırakın.",
+      "Bu sırada geniş bir tencereye 1 yemek kaşığı sıvı yağı ve 1 yemek kaşığı tereyağını ekleyip orta ateşte eritmeye başlayın. Ezilmiş 1 diş sarımsak ve 1 yemek kaşığı domates salçasını da ekleyerek kavurmaya başlayın.",
+      "Yumuşayan tarhana karışımını ekleyin, ardından 1 çay kaşığı tuzu da ekleyin ve karıştırın.",
+      "Kalan 5 su bardağı suyu ve tencereye ekleyin. Ara ara karıştırarak koyulaşana dek pişirin.",
+      "Kaynayan tarhana çorbasını bekletmeden sıcak olarak servis edin. Pişirdikçe koyulaşan bir çorba olduğu için daha sonra tüketecekseniz üzerine su ilave etmenizi öneririz.",
+      "Tarhana çorbası hazır. Afiyet olsun!"
+    ],
+    "category": "Çorba",
+    "origin": "Turkish",
+    "id": 109
+  },
+  {
+    "name": "Lokanta Usulü Mercimek Çorbası",
+    "ingredients": [
+      "1 su bardağı sarı mercimek",
+      "1,5 su bardağı tavuk suyu",
+      "4 su bardağı sıcak su",
+      "1 tatlı kaşığı tuz",
+      "1 adet soğan",
+      "2 diş sarımsak",
+      "1 yemek kaşığı tereyağı",
+      "1 yemek kaşığı un",
+      "2 yemek kaşığı tereyağı",
+      "1 çay kaşığı pul biber"
+    ],
+    "steps": [
+      "Lokanta usulü mercimek çorbası yapımı için 1 yemek kaşığı tereyağını eritin ve küp küp doğranmış 1 adet soğanı ve ezilmiş 2 diş sarımsağı kavurun.",
+      "Soğan ve sarımsak hafif kavrulunca 1 yemek kaşığı unu ilave edin ve 2-3 dakika kavurun.",
+      "1 su bardağı mercimeği de ilave edin ve kavurmaya devam edin.",
+      "1,5 su bardağı tavuk suyu ve 4 su bardağı sıcak suyu ilave edin.",
+      "Su kaynayınca 1 tatlı kaşığı tuzu ilave edin ve mercimekler iyice yumuşayıncaya kadar pişirin. ",
+      "Kaynayan ve kıvamlanan çorbayı blenderdan geçirin. ",
+      "Lokanta usulü mercimek çorbası hazır. Tereyağında pul biberi kavurarak hazırladığınız acı yağ ile servis edin. Afiyet olsun!"
+    ],
+    "category": "Çorba",
+    "origin": "Turkish",
+    "id": 110
+  },
+  {
+    "name": "Terbiyeli İşkembe Çorbası",
+    "ingredients": [
+      "1 kilogram işkembe",
+      "3 yemek kaşığı tereyağı",
+      "3 yemek kaşığı un",
+      "1/2 adet limon suyu",
+      "1 adet küçük boy kuru soğan",
+      "2 diş sarımsak",
+      "6 su bardağı su",
+      "1 adet yumurta sarısı",
+      "2 yemek kaşığı un",
+      "4 yemek kaşığı yoğurt",
+      "1/2 adet limon suyu",
+      "1 çay kaşığı tuz",
+      "1/2 çay bardağı sirke",
+      "4 diş sarımsak"
+    ],
+    "steps": [
+      "Terbiyeli işkembe çorbası için İyi temizlenmiş 1 kilogram işkembenin üzerini geçecek kadar su ilave edip, işkembeler yumuşayana kadar yaklaşık 40 dakika haşlayın.",
+      "İşkembe haşlandıktan sonra bir kevgir yardımıyla kaseye aktarın.",
+      "Ayrı bir tavada 3 yemek kaşığı tereyağını eritip üzerine 3 yemek kaşığı unu ilave edin ve unun kokusu çıkana kadar kavurun.",
+      "Süzdüğünüz ve ılınmış olan haşlama suyundan tavaya azar azar ekleyin. Unun topaklanmaması için; bir çırpıcı yardımıyla hızlıca karıştırın.",
+      "Bu karışımı işkembeleri haşladığınız tencerenin içerisine sürekli olarak karıştırarak yavaş yavaş yedirin.",
+      "Çorbanın terbiyesini hazırlamak için 4 yemek kaşığı yoğurt, 2 yemek kaşığı un, 1 çay kaşığı tuz, 1 adet yumurta sarısı ve yarım limon suyunu ayrı bir kapta çırpın.",
+      "Terbiye karışımını kaynamakta olan haşlama suyu ile ılıştırdıktan sonra çorba tenceresine azar azar ekleyin ve hızlıca karıştırın.",
+      "Son olarak haşlanan işkembeyi çorbaya ilave edin ve kısık ateşte, 15 dakika kadar kaynatarak pişirin.",
+      "4 diş sarımsağı rendeledikten sonra 1/2 çay bardağı sirke ile karıştırın. Servis kaselerine aldığınız çorbayı, sarımsaklı sirke ilavesiyle sıcak olarak servis edin. Terbiyeli işkembe çorbası hazır! Afiyet olsun."
+    ],
+    "category": "Çorba",
+    "origin": "Turkish",
+    "id": 111
+  },
+  {
+    "id": 1,
     "name": "Menemen",
     "ingredients": [
       "yumurta",
@@ -9,7 +1235,8 @@
     ],
     "steps": [
       "Biberleri kavurun, domatesi ekleyin, yumurtayı kırın."
-    ]
+    ],
+    "category": "Ana Yemekler"
   },
   {
     "id": 2,
@@ -28,10 +1255,10 @@
       "Mercimekler yumuşayana kadar pişirin.",
       "Blenderdan geçirip sosuyla servis edin."
     ],
-    "category": "Çorba"
+    "category": "Çorbalar"
   },
   {
-    "id": 32,
+    "id": 3,
     "name": "Karnıyarık",
     "ingredients": [
       "patlıcan",
@@ -40,7 +1267,8 @@
     ],
     "steps": [
       "Patlıcanları kızartın, kıymalı harcı doldurup pişirin."
-    ]
+    ],
+    "category": "Ana Yemekler"
   },
   {
     "id": 4,
@@ -52,16 +1280,14 @@
       "kıyma",
       "soğan",
       "yoğurt",
-      "sarımsak",
-      "sumak",
-      "pul biber"
+      "sarımsak"
     ],
     "steps": [
       "Hamuru yoğurup ince açın.",
       "Minik kareler kesip kıymalı harç ile kapatın.",
       "Haşlayıp üzerine sarımsaklı yoğurt ve yağ dökün."
     ],
-    "category": "Hamur İşi"
+    "category": "Hamur İşleri"
   },
   {
     "id": 5,
@@ -76,9 +1302,9 @@
     "steps": [
       "Pirinci haşlayın.",
       "Sütü ve şekeri ekleyip kaynatın.",
-      "Nişasta ile kıvam aldırıp fırınlayın veya kaselere paylaştırın."
+      "Nişasta ile kıvam aldırıp fırınlayın."
     ],
-    "category": "Tatlı"
+    "category": "Tatlılar"
   },
   {
     "id": 6,
@@ -93,10 +1319,9 @@
     "steps": [
       "Pideleri küp doğrayıp ısıtın.",
       "Üzerine döner etlerini dizin.",
-      "Sıcak domates sosu ve kızgın tereyağı gezdirin.",
-      "Yanında yoğurt ile servis yapın."
+      "Sıcak domates sosu ve kızgın tereyağı gezdirin."
     ],
-    "category": "Ana Yemek"
+    "category": "Ana Yemekler"
   },
   {
     "id": 7,
@@ -106,16 +1331,14 @@
       "pirinç",
       "soğan",
       "zeytinyağı",
-      "nane",
-      "yenibahar",
-      "limon"
+      "nane"
     ],
     "steps": [
       "İç harcı hazırlayıp soğutun.",
       "Yaprakları tek tek sarın.",
-      "Tencereye dizip üzerine limon ve zeytinyağı ekleyerek pişirin."
+      "Tencereye dizip pişirin."
     ],
-    "category": "Zeytinyağlı"
+    "category": "Salatalar & Mezeler"
   },
   {
     "id": 8,
@@ -131,26 +1354,12 @@
     "steps": [
       "Etleri soteleyip pişirin.",
       "Patlıcanları közleyip ezin.",
-      "Beşamel sos hazırlayıp patlıcanla karıştırın.",
-      "Tabağa beğendiyi yayıp üzerine eti koyun."
+      "Beşamel sos hazırlayıp patlıcanla karıştırın."
     ],
-    "category": "Ana Yemek"
+    "category": "Ana Yemekler"
   },
   {
-    "id": 50,
-    "name": "Mücver",
-    "ingredients": [
-      "kabak",
-      "yumurta",
-      "un",
-      "dereotu"
-    ],
-    "steps": [
-      "Kabakları rendeleyip malzemelerle kızartın."
-    ]
-  },
-  {
-    "id": 10,
+    "id": 9,
     "name": "Baklava",
     "ingredients": [
       "yufka",
@@ -161,12 +1370,12 @@
     "steps": [
       "Yufkaları kat kat yağlayıp tepsiye dizin.",
       "Araya ceviz serpin.",
-      "Dilimleyip pişirin ve soğuk şerbeti sıcak tatlıya dökün."
+      "Dilimleyip pişirin ve şerbetleyin."
     ],
-    "category": "Tatlı"
+    "category": "Tatlılar"
   },
   {
-    "id": 11,
+    "id": 10,
     "name": "Lahmacun",
     "ingredients": [
       "un",
@@ -182,10 +1391,11 @@
       "Hamuru inceceik açın.",
       "İç harcı hazırlayıp üzerine yayın.",
       "Taş fırında veya tavada pişirin."
-    ]
+    ],
+    "category": "Hamur İşleri"
   },
   {
-    "id": 12,
+    "id": 11,
     "name": "Kısır",
     "ingredients": [
       "ince bulgur",
@@ -199,10 +1409,11 @@
     "steps": [
       "Bulguru sıcak suyla ıslatın.",
       "Kalan malzemeleri ekleyip karıştırın."
-    ]
+    ],
+    "category": "Salatalar & Mezeler"
   },
   {
-    "id": 13,
+    "id": 12,
     "name": "İçli Köfte",
     "ingredients": [
       "bulgur",
@@ -215,11 +1426,12 @@
     "steps": [
       "Dış hamuru hazırlayın.",
       "İç harcı kavurup soğutun.",
-      "İçini doldurup kapatın ve kızartın veya haşlayın."
-    ]
+      "İçini doldurup kapatın ve kızartın."
+    ],
+    "category": "Hamur İşleri"
   },
   {
-    "id": 14,
+    "id": 13,
     "name": "Ezogelin Çorbası",
     "ingredients": [
       "mercimek",
@@ -232,10 +1444,11 @@
     "steps": [
       "Bakliyatları pişirin.",
       "Sosunu hazırlayıp karıştırın."
-    ]
+    ],
+    "category": "Çorbalar"
   },
   {
-    "id": 15,
+    "id": 14,
     "name": "Künefe",
     "ingredients": [
       "kadayıf",
@@ -248,10 +1461,11 @@
       "Kadayıfları yağlayıp tepsiye dizin.",
       "Araya peyniri koyun.",
       "Kızartıp şerbetini verin."
-    ]
+    ],
+    "category": "Tatlılar"
   },
   {
-    "id": 16,
+    "id": 15,
     "name": "Pilav",
     "ingredients": [
       "pirinç",
@@ -263,10 +1477,11 @@
       "Şehriyeleri kavurun.",
       "Yıkanmış pirinci ekleyip kavurun.",
       "Suyunu ekleyip demlenmeye bırakın."
-    ]
+    ],
+    "category": "Ana Yemekler"
   },
   {
-    "id": 17,
+    "id": 16,
     "name": "İmam Bayıldı",
     "ingredients": [
       "patlıcan",
@@ -279,26 +1494,11 @@
       "Patlıcanları kızartın.",
       "Soğanlı harcı hazırlayıp doldurun.",
       "Zeytinyağı ile pişirin."
-    ]
-  },
-  {
-    "id": 18,
-    "name": "Sarma",
-    "ingredients": [
-      "yaprak",
-      "pirinç",
-      "soğan",
-      "kuş üzümü",
-      "fıstık"
     ],
-    "steps": [
-      "Harcı hazırlayın.",
-      "Yaprakları sarın.",
-      "Kısık ateşte pişirin."
-    ]
+    "category": "Ana Yemekler"
   },
   {
-    "id": 19,
+    "id": 17,
     "name": "Ayran Aşı Çorbası",
     "ingredients": [
       "yoğurt",
@@ -309,10 +1509,11 @@
     "steps": [
       "Buğday ve nohudu haşlayın.",
       "Soğuk yoğurtla karıştırın."
-    ]
+    ],
+    "category": "Çorbalar"
   },
   {
-    "id": 20,
+    "id": 18,
     "name": "Kadınbudu Köfte",
     "ingredients": [
       "kıyma",
@@ -325,10 +1526,11 @@
       "Pirinci haşlayın.",
       "Kıyma ile yoğurun.",
       "Yumurta ve una bulayıp kızartın."
-    ]
+    ],
+    "category": "Ana Yemekler"
   },
   {
-    "id": 21,
+    "id": 19,
     "name": "Su Böreği",
     "ingredients": [
       "un",
@@ -340,10 +1542,11 @@
       "Hamurları haşlayın.",
       "Yağlanmış tepsiye dizin.",
       "Araya peynir koyup pişirin."
-    ]
+    ],
+    "category": "Hamur İşleri"
   },
   {
-    "id": 22,
+    "id": 20,
     "name": "Piyaz",
     "ingredients": [
       "fasulye",
@@ -355,10 +1558,11 @@
     "steps": [
       "Fasulyeleri haşlayın.",
       "Tahinli sos hazırlayıp üzerine dökün."
-    ]
+    ],
+    "category": "Salatalar & Mezeler"
   },
   {
-    "id": 23,
+    "id": 21,
     "name": "Ali Nazik",
     "ingredients": [
       "patlıcan",
@@ -369,50 +1573,11 @@
     "steps": [
       "Patlıcanı közleyip yoğurtla karıştırın.",
       "Kavrulmuş etleri üzerine ekleyin."
-    ]
+    ],
+    "category": "Ana Yemekler"
   },
   {
     "id": 24,
-    "name": "Şekerpare",
-    "ingredients": [
-      "un",
-      "irmik",
-      "yumurta",
-      "şerbet"
-    ],
-    "steps": [
-      "Hamuru şekillendirin.",
-      "Fırınlayıp sıcakken şerbetini dökün."
-    ]
-  },
-  {
-    "id": 25,
-    "name": "Sarmaşık",
-    "ingredients": [
-      "sarmaşık otu",
-      "yumurta",
-      "soğan"
-    ],
-    "steps": [
-      "Otları kavurun.",
-      "Üzerine yumurta kırın."
-    ]
-  },
-  {
-    "id": 41,
-    "name": "Tas Kebabı",
-    "ingredients": [
-      "dana eti",
-      "soğan",
-      "domates",
-      "salça"
-    ],
-    "steps": [
-      "Eti sebzelerle beraber ağır ateşte pişirin."
-    ]
-  },
-  {
-    "id": 27,
     "name": "Kabak Tatlısı",
     "ingredients": [
       "kabak",
@@ -423,10 +1588,11 @@
     "steps": [
       "Kabakları şekerle pişirin.",
       "Tahin ve cevizle servis edin."
-    ]
+    ],
+    "category": "Tatlılar"
   },
   {
-    "id": 28,
+    "id": 25,
     "name": "Etli Ekmek",
     "ingredients": [
       "hamur",
@@ -438,10 +1604,11 @@
       "İnce hamur açın.",
       "Üzerine kıymalı harç yayın.",
       "Fırınlayın."
-    ]
+    ],
+    "category": "Hamur İşleri"
   },
   {
-    "id": 29,
+    "id": 26,
     "name": "Aşure",
     "ingredients": [
       "buğday",
@@ -454,10 +1621,11 @@
     "steps": [
       "Malzemeleri haşlayıp karıştırın.",
       "Şekerle pişirin."
-    ]
+    ],
+    "category": "Tatlılar"
   },
   {
-    "id": 30,
+    "id": 27,
     "name": "Cacık",
     "ingredients": [
       "yoğurt",
@@ -468,10 +1636,11 @@
     "steps": [
       "Salatalıkları doğrayın.",
       "Yoğurt ve suyla karıştırın."
-    ]
+    ],
+    "category": "Salatalar & Mezeler"
   },
   {
-    "id": 33,
+    "id": 28,
     "name": "İzmir Köfte",
     "ingredients": [
       "kıyma",
@@ -481,23 +1650,11 @@
     ],
     "steps": [
       "Köfteleri ve patatesleri kızartıp fırınlayın."
-    ]
-  },
-  {
-    "id": 34,
-    "name": "Kadayıf",
-    "ingredients": [
-      "kadayıf",
-      "ceviz",
-      "tereyağı",
-      "şerbet"
     ],
-    "steps": [
-      "Kadayıfları yağlayıp cevizle fırınlayın, şerbetleyin."
-    ]
+    "category": "Ana Yemekler"
   },
   {
-    "id": 35,
+    "id": 29,
     "name": "Mercimek Köftesi",
     "ingredients": [
       "kırmızı mercimek",
@@ -508,10 +1665,11 @@
     ],
     "steps": [
       "Mercimeği haşlayın, bulguru ekleyin, yoğurup şekil verin."
-    ]
+    ],
+    "category": "Salatalar & Mezeler"
   },
   {
-    "id": 36,
+    "id": 30,
     "name": "Biber Dolması",
     "ingredients": [
       "biber",
@@ -522,23 +1680,11 @@
     ],
     "steps": [
       "İç harcı hazırlayıp biberleri doldurun ve pişirin."
-    ]
-  },
-  {
-    "id": 37,
-    "name": "Tavuk Sote",
-    "ingredients": [
-      "tavuk",
-      "biber",
-      "domates",
-      "soğan"
     ],
-    "steps": [
-      "Tavukları ve sebzeleri soteleyerek pişirin."
-    ]
+    "category": "Ana Yemekler"
   },
   {
-    "id": 38,
+    "id": 32,
     "name": "Pilaki",
     "ingredients": [
       "fasulye",
@@ -549,10 +1695,11 @@
     ],
     "steps": [
       "Fasulyeleri ve sebzeleri zeytinyağında pişirin."
-    ]
+    ],
+    "category": "Salatalar & Mezeler"
   },
   {
-    "id": 39,
+    "id": 33,
     "name": "Revani",
     "ingredients": [
       "irmik",
@@ -562,11 +1709,12 @@
       "şerbet"
     ],
     "steps": [
-      "Keki pişirip soğuk şerbeti dökün."
-    ]
+      "Keki pişirip şerbetleyin."
+    ],
+    "category": "Tatlılar"
   },
   {
-    "id": 40,
+    "id": 34,
     "name": "Taze Fasulye",
     "ingredients": [
       "taze fasulye",
@@ -576,10 +1724,11 @@
     ],
     "steps": [
       "Fasulyeleri domates ve soğanla beraber pişirin."
-    ]
+    ],
+    "category": "Ana Yemekler"
   },
   {
-    "id": 42,
+    "id": 35,
     "name": "Domates Çorbası",
     "ingredients": [
       "domates",
@@ -589,63 +1738,25 @@
     ],
     "steps": [
       "Unu kavurun, domatesi ekleyip pişirin ve sütleyin."
-    ]
-  },
-  {
-    "id": 43,
-    "name": "İç Pilav",
-    "ingredients": [
-      "pirinç",
-      "ciğer",
-      "kuş üzümü",
-      "dolmalık fıstık"
     ],
-    "steps": [
-      "Ciğer ve fıstıkları kavurup pilavı pişirin."
-    ]
+    "category": "Çorbalar"
   },
   {
-    "id": 44,
-    "name": "Bulgur Pilavı",
+    "id": 37,
+    "name": "Nohut Yemeği",
     "ingredients": [
-      "bulgur",
-      "domates",
+      "nohut",
+      "kıyma",
       "soğan",
-      "biber"
+      "salça"
     ],
     "steps": [
-      "Sebzeleri kavurup bulgurla beraber pişirin."
-    ]
-  },
-  {
-    "id": 45,
-    "name": "Kabak Kalye",
-    "ingredients": [
-      "kabak",
-      "soğan",
-      "dereotu",
-      "zeytinyağı"
+      "Nohudu pişirip kıymalı harçla birleştirin."
     ],
-    "steps": [
-      "Kabakları zeytinyağında pişirip dereotuyla süsleyin."
-    ]
+    "category": "Ana Yemekler"
   },
   {
-    "id": 46,
-    "name": "Zeytinyağlı Enginar",
-    "ingredients": [
-      "enginar",
-      "bezelye",
-      "havuç",
-      "patates",
-      "limon"
-    ],
-    "steps": [
-      "Enginarları sebzeli garnitürle beraber pişirin."
-    ]
-  },
-  {
-    "id": 47,
+    "id": 38,
     "name": "Havuç Tarator",
     "ingredients": [
       "havuç",
@@ -655,32 +1766,147 @@
     ],
     "steps": [
       "Havuçları soteleyip sarımsaklı yoğurtla karıştırın."
-    ]
+    ],
+    "category": "Salatalar & Mezeler"
   },
   {
-    "id": 48,
-    "name": "Humus",
+    "id": 40,
+    "name": "Mücver",
     "ingredients": [
-      "nohut",
-      "tahin",
-      "limon",
-      "sarımsak"
+      "kabak",
+      "yumurta",
+      "un",
+      "dereotu"
     ],
     "steps": [
-      "Nohudu haşlayıp diğer malzemelerle püre yapın."
-    ]
+      "Kabakları rendeleyip malzemelerle kızartın."
+    ],
+    "category": "Salatalar & Mezeler"
   },
   {
-    "id": 49,
-    "name": "Sütlü Nuriye",
+    "name": "Pizza Margherita Tarifi",
+    "ingredients": [],
+    "steps": [],
+    "category": "Genel",
+    "origin": "Global",
+    "id": 45
+  },
+  {
+    "name": "Pizza Margherita",
     "ingredients": [
-      "yufka",
-      "fındık",
-      "süt",
-      "şerbet"
+      "3 su bardağı un",
+      "1 yemek kaşığı şeker",
+      "1/2 çay kaşığı tuz",
+      "1/2 tatlı kaşığı kuru maya",
+      "100-150 gram mozzarella peyniri",
+      "5 yemek kaşığı domates",
+      "1 yemek kaşığı zeytinyağı",
+      "1 yemek kaşığı şeker",
+      "1 yemek kaşığı biber salçası",
+      "1 diş sarımsak",
+      "1 tatlı kaşığı kekik"
     ],
     "steps": [
-      "Yufkaları fındıkla fırınlayın, sütlü şerbet dökün."
-    ]
+      "3 su bardağı un, 1 yemek kaşığı şeker ve yarım çay kaşığı tuzu karıştırıyoruz.",
+      "Ardından ılık suda beklettiğimiz mayamız ile tekrar harmanlıyoruz.",
+      "1 saat kabarttığımız hamurumuzu açıp, hazırladığımız sosu üzerine ekleyip 230 derece fırında beş dakika pişiriyoruz.",
+      "Ardından çıkarıp mozzarellaları ekleyip 10-12 dakika daha pişiriyoruz. Afiyet olsun."
+    ],
+    "category": "Pizza",
+    "origin": "Global",
+    "id": 83
+  },
+  {
+    "name": "Tiramisu",
+    "ingredients": [
+      "1 paket kedi dili bisküvi",
+      "6 adet yumurta",
+      "3/4 su bardağı toz şeker",
+      "2 yemek kaşığı süt",
+      "400 gram labne",
+      "1 paket vanilya",
+      "200 ml. krema",
+      "2 fincan kahve",
+      "2 yemek kaşığı kakao"
+    ],
+    "steps": [
+      "Tiramisu için karıştırma kabını içinde su kaynayan bir tencerenin üzerine oturtun. Kabın içine yumurta sarılarını aktarıp güzelce çırpın.",
+      "Yumurta sarılarını güzelce çırptıktan sonra şekeri ve sütü ekleyin. Karışımı yaklaşık 10 dakika boyunca hızlıca çırparak pişirin. Karışım soğuduktan sonra derin bir kaba alın. Vanilyayı ekleyin ve karıştırın.",
+      "Labne peyniri yumurtalı karışıma ekleyip güzelce karıştırın.",
+      "Üzerine, önceden mikser ile çırpılmış sıvı kremayı ekleyin ve bir spatula yardımıyla kremayı söndürmemeye çalışarak karıştırın.",
+      "Kedidili bisküvileri hazırladığınız kahveye batırarak ıslatın. Kahvenin içinde çok bekletmeyin. Hafifçe ıslatmanız yeterli.",
+      "Ardından kelepçeli bir kalıba ya da kullanacağınıza kabın tabanına kedidili bisküvilerden bir kısmını dizin.",
+      "Üzerine, hazırladığınız kremanın yarısını döküp güzelce yayın.",
+      "Hazır kahveye batırdığınız kedidili bisküvilerini bir kat daha dizdikten sonra kremanın kalanını üzerine döküp yayın.",
+      "Son olarak ince bir süzgeç yardımıyla üzerine kakao gezdirip, buzdolabında bir gece dinlenmeye bırakın.",
+      "Dinlenen tatlınızı buzdolabından çıkarıp servis edebilirsiniz. Tiramisu hazır! Afiyet olsun."
+    ],
+    "category": "Tatlı",
+    "origin": "Global",
+    "id": 84
+  },
+  {
+    "name": "Ratatouille",
+    "ingredients": [
+      "2 yemek kaşığı zeytinyağı",
+      "1/2 adet soğan",
+      "1 adet kapya biber",
+      "2 adet domates",
+      "3-4 dal taze kekik",
+      "1 tatlı kaşığı toz şeker",
+      "1 çay kaşığı tuz",
+      "1/2 çay kaşığı karabiber",
+      "2 diş sarımsak",
+      "2 adet orta boy kabak",
+      "2 adet orta boy patlıcan",
+      "1 adet domates",
+      "1 tatlı kaşığı tuz",
+      "1 çay kaşığı karabiber",
+      "1/2 çay bardağı zeytinyağı",
+      "3-4 yemek kaşığı zeytinyağı",
+      "1-2 dal taze kekik"
+    ],
+    "steps": [
+      "Ratatuy tarifi için önce kapya biberi ocak üzerine bir sac koyarak közleyin. Ardından, biber hala sıcakken, lezzetini koruması için üzerini streç filmle kapatıp bir tabağa alın.",
+      "Mutfak robotuna domatesleri ekleyerek püre haline getirin. Közlenmiş kırmızı biberin kabuklarını soyarak mutfak robota ekleyin ve domateslerle birlikte pürüzsüz bir kıvam elde edene kadar karıştırın.",
+      "Zeytinyağı ile incecik doğradığınız soğanı bir tavaya alın. Kısık ateşte yavaşça kavurmaya başlayın. İsteğe bağlı olarak sarımsak ekleyerek kavurma işlemine devam edebilirsiniz.",
+      "Yumuşayan soğanların üzerine domates sosunu ekleyin. Toz şeker, tuz, karabiber ve taze kekiği ilave ederek, kısık ateşte 10-15 dakika pişirin. ",
+      "Kıvamı hafif koyulaşan sosun içinden kekiği çıkarın ve fırına dayanıklı bir kabın tabanına sosu yayın.",
+      "Patlıcanları kabuklarıyla birlikte ince ince ve yuvarlak bir biçimde doğrayın. Tuzlu suyun içerisinde 15 dakika kadar acı suyunun çıkması için bekletin. Ardından suyunu süzdürün.",
+      "Kabakları ince ince doğrayın. Domatesleri de aynı boyut ve şekillerde doğrayın. Tüm sebzeleri bir kabın içine alın. Üzerlerine zeytinyağı, tuz ve baharatları ilave edin.",
+      "Domates sosunu yaydığınız kabın içine, sebzelerinizi dıştan içe doğru yan yana dizin.",
+      "Üzerlerine zeytinyağı gezdirin. Taze kekik yapraklarını üzerine ekleyin.",
+      "Üzerini alüminyum folyo ile kapatıp üzerine bıçakla 4-5 delik açın. Önceden ısıtılmış 190 derece fırında 20 dakika pişirin.",
+      "20 dakika sonunda folyoyu kaldırın ve bu şekilde bir 30 dakika daha pişirin.",
+      "Üzeri hafifçe kızaran ratatouille hazır. Afiyet olsun!"
+    ],
+    "category": "Sebze",
+    "origin": "Global",
+    "id": 85
+  },
+  {
+    "name": "Çilek Soslu Panna Cotta",
+    "ingredients": [
+      "400 ml. sıvı krema",
+      "2 su bardağı süt",
+      "1/2 su bardağı toz şeker",
+      "2 yemek kaşığı toz jelatin (1/4 su bardağı soğuk suyla karıştırıl",
+      "1 adet vanilya çubuğu",
+      "600 gram küçük boy çilek",
+      "3 yemek kaşığı toz şeker",
+      "1 tatlı kaşığı buğday nişastası"
+    ],
+    "steps": [
+      "Panna cotta için Küçük bir kasede toz jelatini ¼ su bardağı soğuk suyla karıştırıp 5-10 dakika bekletin (şişmesi için).",
+      "Bir tencereye sıvı krema, süt, toz şeker ve vanilya ekleyin.",
+      "Jelatini ekleyin ve tamamen eriyene kadar karıştırın.",
+      "Karışımı ocaktan alın. Kalıplara dökün.",
+      "Çilekleri doğrayın ve bir sos tenceresine alın. Üzerine toz şekeri ve buğday nişastasını ekleyin.",
+      "Orta ateşte çilekler yumuşayıp sos kıvamı alana kadar pişirin. ",
+      "Soğuduktan sonra buzdolabına alın. Servis kaselerinin üzerini sosla kaplayıp tatlıları buzdolabına kaldırın. En az 4 saat (tercihen bir gece) soğutun. Panna cotta hazır. Afiyet olsun."
+    ],
+    "category": "Meyveli Tatlı",
+    "origin": "Global",
+    "id": 86
   }
 ]

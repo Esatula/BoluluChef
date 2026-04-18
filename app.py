@@ -43,6 +43,10 @@ st.markdown("""
         justify-content: center;
         margin-bottom: 20px;
     }
+    .stSidebar [data-testid="stImage"] {
+        border-radius: 50%;
+        border: 3px solid #ff8c00;
+    }
 </style>
 """, unsafe_allow_html=True)
 
@@ -95,14 +99,18 @@ if prompt := st.chat_input("Şefime bir şeyler sor..."):
 
 # Sidebar - Proje Bilgileri
 with st.sidebar:
-    st.image("https://cdn-icons-png.flaticon.com/512/3461/3461901.png", width=100)
-    st.title("Proje Detayları")
+    st.image("assets/chef.png", width=150)
+    st.title("👨‍🍳 Mutfak Defteri")
     st.info("""
     **Bolulu Şef NLP Projesi**
-    - **Model:** TF-IDF + Logistic Regression
-    - **Veri Seti:** 100+ Geleneksel Tarif
-    - **Niyet Sınıflandırma:** Recipe, Ingredients, Smalltalk
-    - **Geliştirici:** NLP Öğrencisi
+    - **Model:** Sentence Transformers (SBERT)
+    - **Dataset:** Structured Intents + SBERT Embeddings
+    - **Kategoriler:**
+        - 🥘 Ana Yemekler
+        - 🥣 Çorbalar
+        - 🍰 Tatlılar
+        - 🥗 Salatalar & Mezeler
+        - 🥐 Hamur İşleri
     """)
-    if st.button("Hakkında"):
-        st.write("Bu proje, Bolu mutfak kültürünü esprili bir dille yansıtan bir yapay zeka asistanıdır.")
+    if st.button("Şefin Notu"):
+        st.write("Lezzet Bolu'dan, tarif şeften! Malzemen varsa sor, yoksa çarşıya kadar yolun var evlat. 😄")

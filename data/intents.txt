@@ -1,0 +1,94 @@
+[INTENT:greeting]
+merhaba
+selam
+selamlar
+hey
+hey şef
+selam usta
+merhabalar
+günaydın
+iyi akşamlar
+
+[INTENT:goodbye]
+görüşürüz
+bye
+hoşçakal
+kendine iyi bak
+sonra görüşürüz
+
+[INTENT:thanks]
+teşekkürler
+teşekkür ederim
+sağ ol
+eline sağlık
+çok iyi olmuş
+eyvallah
+
+[INTENT:how_are_you]
+naber
+naptın
+nasılsın
+nasıl gidiyor
+iyi misin
+ne var ne yok
+keyifler nasıl
+
+[INTENT:addressing]
+şef
+usta
+ustam
+hocam
+reis
+kaptan
+
+[INTENT:recipe_request]
+menemen nasıl yapılır
+menemen tarifi
+mantı yapılışı
+mantı nasıl olur
+sütlaç tarifi ver
+pilav nasıl pişirilir
+iskender kebabı yapımı
+baklava anlat
+yemek tarifi istiyorum
+nasıl pişer
+pişirme yöntemi
+tarifini okur musun
+malzemeleri neler
+yapılışını söyle
+karnıyarık yap
+mücver tarifi lazım
+
+[INTENT:ingredient_based]
+elimde yumurta ve domates var
+domatesim var
+kıyma ve patlıcanla ne yapabilirim
+evde ne pişirebilirim
+dolapta süt ve pirinç var
+malzemelerim şunlar
+bakliyatım var ne yapsam
+soğan ve yağım var
+un ve şekerim var ne yapayım
+malzemeye göre yemek
+eldekilerle ne pişer
+ne önerirsin malzemelerimle
+bişeyler pişirelim malzeme bol
+akşama ne pişirsek evde bunlar var
+
+[INTENT:category_request]
+hangi çorbalar var
+çorba çeşitleri
+tatlı tarifleri
+bana bir tatlı öner
+ana yemek ne var
+et yemeği istiyorum
+meze seçenekleri
+birkaç meze söyler misin
+hamur işi öner
+börek çörek ne var
+sebze yemekleri neler
+diyetlik sebze yemeği
+et yemekleri listesi
+baklagil tarifleri
+kuru baklagiller neler
+salata tariflerine bakabilir miyim
